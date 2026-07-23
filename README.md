@@ -7,7 +7,7 @@ PingSense is a data-driven hub for table tennis players: a landing page that sho
 ## Contents
 
 - [`index.html`](index.html) - the PingSense landing page. A single self-contained static page (no build step) with a hero section, equipment/database highlights, and a "Learn From the Best" section linking to curated YouTube channels for coaching, equipment reviews, and match footage.
-- [`data/table_tennis_rubbers.csv`](data/table_tennis_rubbers.csv) - dataset of 984 table tennis rubbers across 52 brands, sourced from real user reviews on [revspin.net](https://revspin.net/rubber/). Each rubber lists Price and 0-10 scale ratings for Speed, Spin, Tackiness, and Overall, plus the number of user Ratings it received. Rubbers with 3 or fewer ratings were excluded to keep the data statistically meaningful.
+- [`data/table_tennis_rubbers.csv`](data/table_tennis_rubbers.csv) - dataset of 984 table tennis rubbers across 52 brands, sourced from real user reviews on [revspin.net](https://revspin.net/rubber/). Each rubber lists Price and 0-10 scale ratings for Speed, Spin, Tackiness, and Overall. Rubbers with 3 or fewer user ratings were excluded to keep the data statistically meaningful.
 
 ## Viewing the site
 
