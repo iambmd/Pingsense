@@ -63,6 +63,9 @@ CHANNELS = [
         "id": "globalttstudio",
         "color": "c1",
         "initials": "GT",
+        "avatar": (
+            "https://yt3.googleusercontent.com/L62yqLvNhMSnbuqhaOtZaBvE2NUOZLCOp8x5_Mrcu4O4E74cSFRrkbNEr3cdGHJ-2kT6Xb0IoIk=s176-c-k-c0x00ffffff-no-rj"
+        ),
         "name": "Global TT Studio",
         "handle": "@globalttstudio",
         "description": (
@@ -77,6 +80,9 @@ CHANNELS = [
         "id": "tabletennisreview",
         "color": "c2",
         "initials": "TTR",
+        "avatar": (
+            "https://yt3.googleusercontent.com/F2elGEmSHojZ31n9YCfO5STc28qQs4P76strwVocTylPoO7fAiGdu5R14qd-O60A8cZ5gd5P=s176-c-k-c0x00ffffff-no-rj"
+        ),
         "name": "Table Tennis Review",
         "handle": "@tabletennisreview",
         "description": (
@@ -91,6 +97,9 @@ CHANNELS = [
         "id": "hoangchopbongban",
         "color": "c3",
         "initials": "HC",
+        "avatar": (
+            "https://yt3.googleusercontent.com/f2xpF8muWiup88Bxrll4CXesbaNknpMaEWlSC0eApcmwUEapB6uQg0xlclQKzsHbUeoIphli=s176-c-k-c0x00ffffff-no-rj"
+        ),
         "name": "Hoàng Chop Bóng Bàn",
         "handle": "@hoangchopbongban1776",
         "description": (
@@ -105,6 +114,9 @@ CHANNELS = [
         "id": "pingsunday",
         "color": "c4",
         "initials": "PS",
+        "avatar": (
+            "https://yt3.googleusercontent.com/nd71dkAU7MEAh2JQJlJ7fw_ueDPGO_ZQt1DfvjXUEvaDgKAwqHI26g2g-NGqZJXtldm742SW=s176-c-k-c0x00ffffff-no-rj"
+        ),
         "name": "PingSunday",
         "handle": "@pingsunday",
         "description": (
