@@ -1,513 +1,985 @@
-Name,Price,Brand,Speed,Spin,Control,Tackiness,Weight,Sponge Hardness,Gears,Throw Angle,Consistency,Durability
-Andro NUZN 55,$69.95,Andro,9.6,9.5,9.0,2.2,7.3,8.8,8.3,6.4,9.4,8.4
-Donic Bluestorm Pro AM,$59.95,Donic,9.1,9.5,9.2,1.4,5.3,6.8,9.4,5.6,9.3,7.8
-Tibhar Hybrid MK,$66.95,Tibhar,8.9,9.1,9.3,2.5,4.1,6.5,8.7,6.0,10.0,6.2
-Nittaku Hammond Z2,$59.95,Nittaku,9.3,9.3,9.1,2.1,3.6,6.8,8.4,6.5,9.5,8.1
-Tibhar Hybrid K1 European Version,TBD,Tibhar,9.1,9.5,9.2,5.5,5.2,7.9,9.0,6.0,9.6,8.4
-Victas V > 22 Double Extra,TBD,Victas,9.2,9.5,9.4,2.7,5.4,6.9,8.0,5.5,9.3,6.6
-DHS Hurricane 3 National (Blue Sponge),$125.95,DHS,9.2,9.6,9.2,8.5,6.3,8.1,9.4,5.6,9.4,8.4
-Victas TRIPLE Double Extra,TBD,Victas,9.2,9.5,9.1,9.4,7.8,9.7,9.7,3.6,9.4,5.3
-DHS Gold Arc 9,TBD,DHS,9.0,9.4,9.1,0.5,4.5,6.8,9.4,6.4,10.0,7.9
-Donic Bluefire M1 Turbo,$52.95,Donic,9.5,9.4,8.5,2.6,6.3,7.8,9.1,6.3,9.4,7.4
-Donic Acuda Blue P2,TBD,Donic,9.0,9.4,9.1,2.8,4.0,4.4,8.2,4.5,9.1,7.3
-Victas V > 20 Double Extra,TBD,Victas,9.1,9.5,8.9,1.7,6.0,7.6,9.1,6.4,10.0,6.5
-Yasaka Rakza 9,$52.95,Yasaka,9.4,9.3,8.9,2.3,4.6,6.3,8.8,4.3,9.3,8.7
-Tibhar 1Q XD,TBD,Tibhar,9.4,9.1,8.3,3.5,6.0,7.4,8.6,6.0,9.4,8.2
-JOOLA Rhyzm-P,TBD,JOOLA,9.2,9.4,9.3,2.3,4.4,5.9,8.8,5.5,9.6,8.6
-Andro Rasanter R50,TBD,Andro,9.4,9.4,8.7,1.8,6.5,8.3,9.2,5.9,9.3,8.3
-Tibhar Evolution MX-S,$59.95,Tibhar,9.2,9.5,9.1,2.4,6.6,7.6,9.0,5.1,9.2,7.5
-Gewo NanoFlex FT48,TBD,Gewo,9.4,9.4,9.1,1.0,4.9,6.7,8.8,5.3,9.2,8.1
-Xiom Omega V Asia,TBD,Xiom,9.4,9.5,9.1,2.1,5.8,7.7,9.1,6.1,9.7,8.7
-JOOLA Dynaryz AGR,TBD,JOOLA,9.3,9.4,9.0,1.6,5.1,6.9,7.4,5.5,8.9,7.3
-Andro Hexer Powergrip,$47.95,Andro,9.2,9.3,9.3,1.2,5.4,6.8,8.9,5.7,9.9,8.1
-Andro Rasant,TBD,Andro,9.2,9.3,9.0,2.1,5.2,5.5,8.9,5.6,9.5,8.4
-Gewo Flexxon,TBD,Gewo,9.2,9.4,9.2,2.5,4.8,6.8,8.2,4.3,9.4,8.2
-Adidas P7,TBD,Adidas,8.8,9.5,9.1,2.1,4.4,6.5,9.0,6.1,9.5,8.4
-DHS Hurricane 3 Provincial (No. 22 Blue Sponge),TBD,DHS,9.2,9.4,9.3,7.6,6.5,7.8,8.7,5.9,8.6,8.5
-Yasaka Valmo,TBD,Yasaka,9.2,9.2,9.0,2.1,4.7,6.4,8.6,4.6,9.2,9.2
-Butterfly Tenergy 25 FX,$79.99,Butterfly,9.1,9.2,8.9,2.7,4.4,4.1,9.0,4.8,9.6,8.4
-Andro Rasanter R45,$57.95,Andro,8.9,9.2,9.2,0.8,4.8,4.5,6.7,5.8,8.7,6.8
-Xiom Omega IV Asia,TBD,Xiom,9.2,9.0,8.8,2.3,4.5,7.2,8.8,5.4,9.6,7.9
-Tibhar Nianmor,TBD,Tibhar,9.3,9.2,8.1,2.8,5.0,7.3,9.0,5.2,8.6,8.3
-TSP Super Ventus,TBD,TSP,9.2,9.5,9.4,1.4,5.8,6.8,9.4,5.2,9.5,9.0
-JOOLA MAXXX-P,TBD,JOOLA,9.1,9.3,9.4,2.1,4.2,5.0,8.3,4.8,8.9,8.7
-Yasaka Rakza Z Extra Hard,$54.95,Yasaka,9.1,9.4,8.9,6.9,7.9,9.6,8.8,5.8,9.8,8.4
-Andro Rasant Grip,TBD,Andro,9.1,9.4,9.1,2.4,5.6,5.5,8.7,4.9,9.5,8.3
-Tibhar Genius Sound,TBD,Tibhar,8.7,9.5,8.9,2.7,3.4,2.7,7.5,6.1,9.4,7.4
-DHS NEO Hurricane 3 National (Blue Sponge),TBD,DHS,9.1,9.4,9.1,7.7,6.6,7.9,9.1,6.1,8.8,7.5
-Andro Rasanter C48,$59.95,Andro,8.8,9.3,9.2,4.3,5.1,6.5,8.0,6.1,9.6,6.3
-Victas VJ > 07 Stiff,TBD,Victas,9.0,9.3,9.3,0.4,4.0,4.8,8.6,4.5,9.4,8.8
-Andro Rasant PowerGrip,TBD,Andro,9.4,9.3,9.0,2.1,6.6,7.9,8.9,5.6,9.6,8.0
-Victas V > 01 Limber,TBD,Victas,8.7,9.4,9.4,1.4,3.5,3.6,8.5,4.9,9.6,8.1
-DHS Gold Arc 8,TBD,DHS,9.4,9.3,9.1,2.0,5.9,6.7,8.7,5.7,9.4,8.3
-TSP Ventus Spin,TBD,TSP,8.8,9.4,9.3,1.4,2.8,3.2,8.3,6.2,9.7,8.2
-Friendship/729 Battle II Provincial,TBD,Friendship/729,8.9,9.4,9.1,8.6,6.1,8.5,9.4,3.7,9.1,8.6
-Donic BlueGrip C2,$52.95,Donic,9.2,9.4,9.1,5.5,6.5,9.1,9.1,7.3,9.7,7.6
-Butterfly Tenergy 80,$79.99,Butterfly,9.3,9.4,9.0,2.1,5.5,5.4,9.0,5.9,9.1,7.7
-Donic BlueStar A1,$69.95,Donic,9.4,9.4,8.8,2.3,6.8,9.6,9.1,6.1,9.4,7.7
-Xiom Sigma 1 Euro,TBD,Xiom,9.3,9.3,9.1,1.9,5.4,5.5,9.0,4.9,9.8,8.7
-Victas Ventus Extra,TBD,Victas,9.2,9.4,9.4,0.9,5.8,6.8,9.2,4.7,9.6,9.4
-Tibhar 5Q,TBD,Tibhar,8.8,9.3,8.7,2.7,4.4,5.4,7.8,6.0,9.7,8.4
-Yasaka Rigan Spin,TBD,Yasaka,8.7,9.3,9.4,1.8,4.2,4.8,8.9,4.2,9.4,9.3
-Butterfly Zyre 03,$119.99,Butterfly,9.2,9.5,8.9,2.5,5.0,7.8,9.1,5.6,9.5,7.1
-TSP Ventus Soft,TBD,TSP,8.8,9.4,9.3,1.6,2.0,1.3,8.3,6.3,9.1,7.8
-DHS Skyline 2 Provincial Blue Sponge,TBD,DHS,8.3,9.5,9.4,8.6,6.7,9.6,9.1,3.4,9.2,8.4
-Andro Rasanter R53,$57.95,Andro,9.5,9.4,8.9,1.4,7.6,9.1,9.4,6.2,9.2,9.2
-Donic J.O. Waldner,TBD,Donic,8.2,8.8,8.8,3.1,4.2,5.2,9.3,3.2,9.0,8.0
-Yasaka Rakza Z,$54.95,Yasaka,8.7,9.5,9.2,6.6,6.7,7.7,8.7,6.5,9.4,8.3
-Sanwei Target National (New),TBD,Sanwei,8.8,9.3,8.8,8.5,5.5,7.5,8.9,4.2,8.6,7.9
-Tibhar 5Q Update,TBD,Tibhar,9.1,9.1,9.0,2.4,4.8,5.1,9.1,5.8,10.0,8.5
-Tibhar Grip-S,TBD,Tibhar,8.6,9.2,8.6,6.8,6.5,6.6,8.6,6.2,8.8,7.3
-Xiom Sigma II Euro,TBD,Xiom,9.2,9.4,9.1,1.9,5.4,4.9,9.1,5.7,9.8,7.7
-Andro Rasant Turbo,TBD,Andro,9.5,9.1,8.4,1.5,5.9,7.0,8.9,5.1,9.4,9.1
-Tibhar Rapid X-Press,TBD,Tibhar,9.2,9.2,8.3,3.8,3.8,5.3,8.9,4.0,5.5,6.4
-Haifu White Shark II (Tuned),TBD,Haifu,8.7,8.1,8.5,2.2,3.7,2.8,6.8,3.5,7.5,5.5
-Tibhar Evolution MX-P 50,$64.95,Tibhar,9.3,9.4,9.0,2.3,7.5,9.5,9.0,4.0,9.3,8.4
-Gewo NanoFLEX FT45,TBD,Gewo,9.1,9.4,9.4,0.7,4.4,5.3,8.3,6.5,8.9,8.4
-Xiom Jekyll & Hyde C55.0,TBD,Xiom,9.0,9.7,9.1,5.0,7.5,8.9,8.9,4.9,8.9,6.1
-Yasaka Rising Dragon,TBD,Yasaka,8.9,9.5,9.3,6.0,5.5,6.5,9.1,4.4,8.7,8.0
-JOOLA Maxxx 500,TBD,JOOLA,9.4,9.3,9.1,2.4,6.5,8.5,7.9,7.3,8.8,7.2
-Yasaka Xtend HS,TBD,Yasaka,9.3,9.3,9.2,2.2,3.5,2.4,7.5,2.7,8.8,6.7
-Gewo Proton Neo 325,TBD,Gewo,7.8,9.1,9.2,0.5,1.2,0.5,7.2,6.4,9.2,7.8
-Gewo NanoFLEX FT40,TBD,Gewo,8.6,9.4,9.4,1.1,3.9,3.2,7.9,7.5,10.0,8.3
-Xiom Omega IV Euro,TBD,Xiom,9.0,9.3,8.9,2.5,4.3,5.0,8.5,5.6,9.3,7.6
-Gewo Hype XT Pro 50.0,TBD,Gewo,9.3,9.3,9.1,2.2,6.1,7.7,8.7,5.9,8.9,8.1
-Adidas Tenzone Ultra,TBD,Adidas,9.2,9.4,8.9,2.3,5.2,7.2,8.3,6.1,9.4,8.3
-Palio Aeolus,TBD,Palio,9.3,9.2,9.4,4.4,5.3,6.8,9.3,5.8,9.4,8.3
-Tibhar Evolution MX-P,$59.95,Tibhar,9.5,9.3,8.7,2.3,6.5,7.0,8.7,5.5,8.9,7.0
-Yasaka Rakza XX,$79.95,Yasaka,9.2,9.2,8.8,1.6,5.2,6.8,7.8,6.5,10.0,7.3
-Yasaka Rakza 7,$52.95,Yasaka,8.9,9.2,8.9,2.6,4.9,6.1,8.5,5.5,9.6,8.0
-Nittaku Renanos Hold,TBD,Nittaku,8.9,9.4,9.1,4.1,4.8,6.0,8.9,5.1,9.4,8.0
-Nittaku Fastarc G-1,$49.95,Nittaku,9.0,9.3,9.1,2.3,5.5,6.7,9.1,6.1,9.7,8.8
-Nittaku Sieger PK50,TBD,Nittaku,8.6,9.2,9.2,6.1,6.2,8.5,8.9,6.0,9.5,7.5
-Gewo Proton Neo 450,TBD,Gewo,9.0,9.3,9.4,0.0,4.0,4.6,8.5,6.2,8.8,9.4
-Butterfly Tenergy 25,$79.99,Butterfly,9.2,9.1,8.8,2.5,6.8,6.7,8.6,4.3,10.0,8.2
-Nittaku Hurricane Pro III Turbo Blue,TBD,Nittaku,8.8,9.5,8.8,8.5,8.5,9.4,9.4,5.5,8.5,8.0
-Tibhar Quantum S,TBD,Tibhar,8.8,9.4,9.2,1.8,3.7,4.6,9.3,3.8,9.6,9.0
-Andro Rasanter R47,$51.95,Andro,9.4,9.3,8.9,1.8,5.6,6.5,8.8,5.9,9.3,7.6
-Tibhar Evolution EL-P,$59.95,Tibhar,9.1,9.2,9.0,2.2,5.8,5.0,8.2,5.3,9.5,8.1
-Stiga Magna TX,TBD,Stiga,9.1,9.3,8.8,2.9,3.4,6.2,8.0,4.6,10.0,9.1
-Xiom Omega IV Pro,TBD,Xiom,9.3,9.2,8.8,2.4,5.5,6.8,8.8,4.8,9.4,8.5
-TSP Regalis Blue,TBD,TSP,9.3,9.5,9.4,2.1,4.3,5.6,9.3,5.5,9.3,8.2
-Victas VS > 402 Double Extra,TBD,Victas,8.8,9.4,9.4,1.2,6.5,6.6,8.8,5.5,10.0,8.1
-JOOLA Dynaryz ZGR,TBD,JOOLA,8.9,9.5,9.2,6.5,6.3,9.6,8.3,6.2,8.7,7.7
-Yasaka Mark V HPS,$47.95,Yasaka,9.0,9.1,9.1,4.0,3.6,4.7,8.8,4.2,9.1,7.8
-Nittaku Goriki Kaisoku,TBD,Nittaku,9.4,9.1,9.1,1.6,5.6,6.0,8.3,4.4,10.0,9.0
-Andro Rasanter R48,$57.95,Andro,8.9,9.4,8.9,2.0,5.3,6.6,8.1,5.8,8.3,7.4
-Butterfly Tenergy 64,$79.99,Butterfly,9.3,8.8,8.5,2.5,5.5,5.1,8.5,5.4,9.2,8.0
-DHS Gold Arc 3,TBD,DHS,8.8,9.1,9.2,5.1,5.5,6.5,9.3,5.5,9.2,8.7
-Donic Acuda Blue P1,TBD,Donic,9.3,9.2,8.9,2.6,5.2,6.0,8.6,5.6,9.2,7.2
-Gewo Hype KR Pro 47.5,TBD,Gewo,9.3,9.4,9.1,2.2,5.2,6.7,7.0,4.5,8.8,6.6
-Butterfly Dignics 80,$93.99,Butterfly,9.4,9.1,8.9,1.7,5.8,6.6,8.2,5.5,9.7,8.7
-Xiom Sigma II Pro,TBD,Xiom,9.4,9.3,8.7,2.5,6.4,7.2,8.8,5.5,9.5,8.3
-Gewo Nexxus EL Pro 43,TBD,Gewo,9.0,9.3,9.3,1.2,3.5,4.3,8.0,6.0,8.6,7.3
-Adidas TenZone Ultra SF,TBD,Adidas,9.0,9.2,9.3,2.4,4.2,4.1,7.9,4.8,9.2,8.2
-Andro Rasant Powersponge,TBD,Andro,8.7,9.3,9.4,2.3,3.9,3.0,8.5,4.3,9.3,8.4
-Yasaka Mark V GPS Soft,TBD,Yasaka,8.2,8.5,8.6,5.0,4.6,3.5,8.7,4.2,8.1,8.1
-Stiga Boost TX,TBD,Stiga,9.3,9.0,8.5,2.0,3.2,5.2,8.3,3.8,8.6,7.8
-TSP Agrit Speed,TBD,TSP,9.0,9.0,9.0,3.1,5.3,6.6,7.8,6.8,8.3,7.9
-Butterfly Dignics 64,$93.99,Butterfly,9.4,9.2,8.9,1.7,4.6,6.2,8.9,4.0,9.5,8.1
-Gewo Neoflexx EFT 48,TBD,Gewo,8.0,9.4,9.3,1.7,5.5,6.7,7.0,4.8,8.7,8.1
-Donic Bluefire JP 03,TBD,Donic,8.6,9.1,9.4,2.0,5.1,3.4,7.5,5.4,9.3,6.7
-Tibhar Genius,$49.95,Tibhar,8.9,9.3,8.9,2.8,5.3,5.6,7.9,5.9,9.4,8.3
-Gewo Proton Neo 475,TBD,Gewo,9.4,9.4,9.3,0.2,5.8,7.0,7.3,3.3,9.4,8.8
-JOOLA Tronix ACC,TBD,JOOLA,8.9,9.3,9.3,0.6,4.0,6.1,7.8,5.8,10.0,8.5
-Nittaku Flyatt Spin,$39.95,Nittaku,8.9,9.2,9.3,2.1,3.8,4.2,8.8,4.4,10.0,9.1
-Butterfly Tenergy 19,$79.99,Butterfly,9.0,9.2,9.2,1.6,4.5,5.8,8.2,5.8,9.4,7.7
-Nittaku Fastarc P-1,TBD,Nittaku,9.3,9.3,9.0,2.9,5.5,5.6,9.3,6.0,9.2,9.1
-Gewo Neoflexx EFT 40,TBD,Gewo,6.9,8.5,9.1,1.7,2.2,2.8,4.3,6.2,8.6,7.6
-Nittaku Narucross EX Hard,TBD,Nittaku,9.2,8.9,8.5,3.3,4.3,6.8,9.1,4.8,10.0,8.2
-Killerspin Fortissimo,TBD,Killerspin,9.5,8.9,8.9,2.6,4.0,4.4,8.4,3.7,9.6,8.7
-DHS NEO Hurricane 3 Provincial (Orange Sponge),TBD,DHS,8.6,9.4,9.0,7.8,6.5,7.3,9.0,5.5,8.1,8.0
-Xiom Omega 3 Asian,TBD,Xiom,9.5,8.9,8.8,0.7,4.0,7.7,7.0,3.0,9.0,6.3
-Donic Baracuda,$44.95,Donic,8.7,9.5,8.6,2.3,5.5,4.9,7.8,7.3,8.8,7.7
-Nittaku Fastarc S-1,$44.95,Nittaku,9.1,8.9,9.1,1.9,3.2,4.4,8.5,5.4,9.4,7.9
-Xiom Omega V Tour,TBD,Xiom,9.2,9.4,9.3,1.8,5.8,6.8,9.1,5.2,9.4,7.9
-TSP Ventus Speed,TBD,TSP,9.3,9.2,9.2,1.3,4.6,6.1,7.5,4.3,9.3,7.9
-Victas V > 15 Limber,TBD,Victas,8.8,9.4,9.4,1.8,4.3,4.3,8.2,4.7,9.6,7.8
-Donic Coppa X1 Turbo Platin,TBD,Donic,9.5,9.2,8.4,2.0,4.1,6.1,7.9,4.1,8.8,7.7
-Andro Hexer Powergrip SFX,$47.95,Andro,8.7,9.0,9.1,1.6,3.8,3.7,8.4,5.4,9.6,8.2
-Donic Acuda S1 Turbo,$48.95,Donic,9.4,9.1,8.3,3.2,6.1,6.9,8.3,6.1,8.5,7.0
-Tibhar Aurus Prime,TBD,Tibhar,9.4,9.3,8.9,2.2,5.1,6.9,8.4,6.5,8.8,7.7
-Xiom Omega V Euro,TBD,Xiom,9.1,9.3,9.1,2.1,5.5,5.6,8.5,5.9,9.6,8.1
-Butterfly Tenergy 05,$79.99,Butterfly,9.3,9.4,8.3,2.3,6.4,6.1,8.6,7.6,9.3,7.7
-Butterfly Dignics 05,$93.99,Butterfly,9.1,9.4,8.8,1.8,4.9,7.0,8.4,6.3,8.7,8.5
-Yinhe Venus 2,TBD,Yinhe (Galaxy/Milkyway),8.5,8.8,8.6,7.5,5.8,6.8,7.5,4.2,7.7,8.2
-Xiom Vega X,TBD,Xiom,8.9,9.1,8.9,1.7,5.9,6.7,7.0,5.8,9.0,7.6
-Donic Traction MS Pro,TBD,Donic,9.3,9.3,8.7,2.4,5.8,6.8,7.0,5.3,7.2,6.9
-Butterfly Tenergy 05 FX,$79.99,Butterfly,9.1,9.2,8.9,2.9,5.3,4.1,8.4,6.0,9.3,7.7
-Victas V > 01 Stiff,TBD,Victas,9.2,9.3,9.3,1.5,4.4,4.8,8.3,5.6,9.4,8.6
-Butterfly Bryce High Speed,TBD,Butterfly,9.6,8.8,8.7,1.6,3.1,4.2,7.6,5.2,8.8,8.3
-Gewo Nexxus XT Pro 48,TBD,Gewo,9.4,9.4,9.3,1.5,6.1,7.2,7.7,4.5,8.5,8.2
-Butterfly Spin Art,TBD,Butterfly,8.6,9.3,8.9,6.0,7.7,9.1,9.2,5.9,9.4,8.4
-Donic Bluestorm Z1,$52.95,Donic,9.3,9.3,8.8,2.1,5.7,6.5,9.1,5.6,8.8,6.4
-Tibhar Hybrid K3,$74.95,Tibhar,8.8,9.2,8.9,4.6,5.9,8.3,8.9,6.2,9.5,5.0
-Gewo Flexxon FX,TBD,Gewo,9.0,9.2,9.1,1.3,3.5,4.2,7.5,6.3,8.6,8.1
-Butterfly Dignics 09C,$93.99,Butterfly,8.8,9.5,9.0,5.5,6.8,8.1,9.0,8.3,9.6,7.8
-Yinhe Apollo 5,TBD,Yinhe (Galaxy/Milkyway),9.0,9.4,9.2,5.3,6.1,7.6,8.6,5.3,9.0,8.2
-Globe 999 National,TBD,Globe,7.8,9.2,9.0,6.2,6.3,6.4,8.3,5.3,9.3,8.3
-Nittaku Galze,TBD,Nittaku,8.8,9.1,9.0,1.5,4.2,5.7,9.1,4.4,10.0,8.6
-Tibhar Grip-S Europe Soft,TBD,Tibhar,8.4,9.3,8.9,5.1,4.1,4.6,8.8,7.0,10.0,8.8
-Gewo Flexxon Soft,TBD,Gewo,8.7,9.4,9.4,1.7,2.8,1.2,7.6,6.6,8.5,8.7
-Andro Hexer HD,TBD,Andro,9.3,9.2,8.6,2.8,5.6,6.7,8.1,5.1,9.0,7.7
-Yasaka Rakza X,$54.95,Yasaka,9.0,9.0,9.1,2.2,4.9,6.6,8.5,4.7,9.6,8.0
-Yinhe 9000 3 Star,TBD,Yinhe (Galaxy/Milkyway),9.2,9.2,9.1,6.8,4.3,5.3,6.3,5.5,8.6,6.8
-Tibhar 5Q VIP,TBD,Tibhar,8.6,9.3,9.0,1.8,4.2,5.2,9.0,6.0,10.0,8.8
-Stiga Calibra LT,TBD,Stiga,9.3,9.1,8.9,4.5,5.8,7.3,8.5,6.5,8.8,7.4
-Yasaka Anti Power (Anti-spin),TBD,Yasaka,4.4,2.5,8.8,1.2,4.1,1.9,3.6,2.3,8.3,9.3
-Andro Rasant Beat,TBD,Andro,8.8,9.1,9.3,1.7,2.9,1.6,8.8,4.4,9.7,8.5
-Nittaku Hammond Pro Beta,TBD,Nittaku,8.9,8.7,9.1,1.9,2.2,3.3,8.3,2.5,9.9,8.9
-Xiom Omega V Pro,TBD,Xiom,9.0,9.1,9.1,2.7,5.5,6.3,8.8,5.4,9.6,8.0
-DHS Hurricane 8 Hard,$44.95,DHS,8.7,9.3,9.0,7.6,7.8,9.2,8.4,4.0,8.6,7.1
-Nittaku Hammond CR,TBD,Nittaku,8.9,8.8,9.1,2.2,3.4,4.5,8.1,4.3,9.1,8.1
-Gewo Nexxus EL Pro 38,TBD,Gewo,8.5,9.2,9.1,1.1,3.5,2.8,7.8,7.1,8.8,7.7
-Xiom Omega VII Tour,TBD,Xiom,9.3,9.3,8.2,2.0,7.4,8.8,9.1,6.2,9.5,8.3
-Xiom Vega Pro,TBD,Xiom,9.1,9.2,8.7,2.1,5.5,7.0,8.0,5.8,9.3,7.5
-Nittaku Alhelg SR,TBD,Nittaku,9.1,9.4,9.0,4.3,6.0,7.2,8.8,4.8,8.8,8.5
-Victas VS > 401,TBD,Victas,7.8,9.4,9.3,1.9,8.5,8.1,8.4,4.4,8.8,8.5
-Gewo Proton Neo 375,TBD,Gewo,8.6,9.1,9.4,0.5,2.5,2.8,7.3,6.2,9.5,8.4
-Stiga Calibra LT Spin,TBD,Stiga,9.1,9.1,8.9,2.4,3.5,3.6,8.4,4.7,8.8,6.1
-Victas V > 11 Extra,TBD,Victas,8.8,8.8,9.2,2.1,2.6,5.9,7.4,5.6,9.3,5.8
-Donic Bluefire M1,$49.95,Donic,9.3,9.2,8.4,2.7,5.9,7.2,8.0,6.3,9.2,7.3
-Nittaku Fastarc C-1,$49.95,Nittaku,9.0,9.1,9.2,2.0,4.4,5.0,7.8,5.4,9.5,8.4
-Donic Bluefire JP 01 Turbo,TBD,Donic,9.3,9.4,8.4,3.8,5.3,6.5,8.6,6.0,9.4,8.0
-Tibhar Evolution FX-S,$59.95,Tibhar,8.7,9.2,9.2,1.3,5.4,3.2,7.4,5.3,10.0,7.5
-Andro Plasma Women,TBD,Andro,8.6,8.7,8.9,1.2,1.1,0.4,8.5,6.9,9.6,8.6
-Gewo Codexx EL Pro 52,TBD,Gewo,8.3,9.4,9.3,7.6,6.4,9.7,8.1,5.8,9.5,8.6
-Stiga Calibra LT Plus,TBD,Stiga,9.4,9.1,8.6,3.3,6.1,8.2,8.5,6.0,8.4,7.3
-Gewo Hype EL Pro 40.0,TBD,Gewo,8.6,9.4,9.5,0.9,2.7,2.3,8.1,7.3,8.1,7.2
-Andro Rasanter R42,$51.95,Andro,8.9,9.2,9.2,2.1,3.7,4.1,8.0,6.1,9.0,7.7
-Donic Quattro A'Conda Soft,TBD,Donic,6.7,8.7,9.1,2.4,4.9,2.4,7.6,6.0,8.1,5.6
-Palio Macro Era,TBD,Palio,9.3,8.6,8.5,1.7,3.9,4.3,8.4,4.3,9.3,5.6
-TSP Triple Spin Chop,TBD,TSP,5.7,9.3,9.4,3.5,2.4,2.4,4.8,5.1,9.0,7.8
-Andro Rasanter R37,$51.95,Andro,8.7,9.1,9.4,1.6,2.8,1.1,6.7,5.8,9.1,7.8
-JOOLA Express One,TBD,JOOLA,9.4,8.8,8.3,2.2,3.7,6.7,6.9,3.4,8.1,6.4
-TSP Agrit,TBD,TSP,8.9,9.3,9.4,1.3,1.6,4.6,8.1,6.5,10.0,9.0
-Andro Rasanter V42,$34.95,Andro,9.1,9.1,9.2,1.9,4.4,4.2,8.1,4.4,9.7,8.2
-Tibhar Aurus,$44.95,Tibhar,8.9,9.0,8.8,2.2,4.7,6.1,8.0,5.8,9.2,7.3
-Victas VS > 402 Limber,TBD,Victas,8.7,9.5,9.4,1.9,3.6,3.3,8.5,6.2,10.0,8.0
-Donic BlueGrip S2,$48.95,Donic,8.2,9.1,9.3,4.4,3.4,4.2,7.9,5.5,9.5,5.9
-Andro Impuls Powersponge,TBD,Andro,8.5,9.2,9.3,1.7,3.2,3.4,8.0,5.5,8.9,9.2
-Friendship/729 729-08 Pro,TBD,Friendship/729,8.6,9.3,8.9,4.5,4.0,7.9,7.9,6.6,8.6,8.6
-Victas VJC > 07 Sticky Extra,TBD,Victas,8.4,9.2,9.4,3.3,5.2,6.2,7.7,6.2,10.0,8.9
-Gewo Nexxus EL Pro 50 Hard,TBD,Gewo,9.3,9.2,9.2,0.3,5.8,7.6,8.3,4.0,9.1,8.2
-Tibhar 1Q,TBD,Tibhar,8.7,8.9,8.7,3.2,4.6,6.6,7.5,6.0,9.2,8.3
-Stiga Mantra H,TBD,Stiga,9.4,9.1,8.8,2.0,5.9,8.7,7.7,5.4,8.5,7.1
-Tibhar Evolution MX-D,$64.95,Tibhar,9.3,9.1,8.6,1.8,6.8,8.6,8.7,4.6,8.9,7.1
-Cornilleau Target Pro GT X51,TBD,Cornilleau,9.3,9.2,9.0,1.5,7.0,8.2,8.5,6.0,9.1,7.8
-DHS Hurricane 3 (Provincial),TBD,DHS,8.5,9.3,8.7,8.3,6.7,7.3,8.9,6.4,8.2,8.6
-JOOLA Rhyzm,TBD,JOOLA,9.1,9.1,8.7,2.3,5.9,6.7,8.6,4.8,8.6,7.8
-Tibhar 5Q Sound,TBD,Tibhar,8.3,9.1,9.1,1.6,3.7,1.5,7.4,4.5,10.0,8.4
-Friendship/729 Battle 3,TBD,Friendship/729,8.9,9.3,9.2,8.4,6.1,8.1,8.8,4.9,8.4,7.1
-Tibhar Grip-S Europe,TBD,Tibhar,8.6,9.3,8.9,5.9,6.3,7.3,8.5,7.6,10.0,8.3
-Friendship/729 Battle II Provincial Gold,TBD,Friendship/729,9.1,9.5,8.7,8.6,5.6,8.5,9.3,4.6,8.6,8.5
-JOOLA Golden Tango PS,TBD,JOOLA,8.8,9.4,9.1,5.8,6.2,7.4,7.0,6.7,10.0,6.9
-Andro Hexer+,TBD,Andro,9.3,9.0,8.7,1.4,3.8,4.5,8.4,4.7,8.9,6.5
-Yasaka Xtend,TBD,Yasaka,9.1,8.9,9.0,3.9,2.9,1.9,7.9,5.2,8.6,6.4
-Gewo Hype XT Pro 40.0,TBD,Gewo,8.5,9.0,9.0,1.1,2.5,2.3,7.7,6.6,8.3,6.6
-Xiom Sigma 1 Pro,TBD,Xiom,9.5,9.1,8.5,1.8,5.9,7.4,8.4,4.8,9.8,7.6
-Darker VLON-S Blue V,TBD,Darker,8.9,9.1,8.4,7.2,5.1,7.5,9.1,6.1,8.8,7.7
-Gewo Nexxus EL Pro 53 Hard,TBD,Gewo,9.3,9.1,8.9,0.9,6.6,8.3,8.3,2.4,9.1,8.6
-DHS Gold Arc 5,TBD,DHS,8.7,9.0,9.3,2.3,4.5,5.3,8.2,4.9,9.0,7.3
-Yasaka Rakza 7 Soft,$52.95,Yasaka,8.6,9.2,9.1,2.4,3.7,2.5,7.6,5.5,9.7,7.6
-Nittaku Hurricane Pro III Turbo Orange,TBD,Nittaku,8.6,9.3,8.9,8.5,8.3,8.6,8.9,5.3,8.9,7.6
-Donic Bluestorm Z1 Turbo,$52.95,Donic,9.4,9.0,8.2,1.8,5.9,7.9,8.0,3.9,9.3,7.9
-Yinhe Moon Pro,TBD,Yinhe (Galaxy/Milkyway),8.9,9.2,9.1,6.0,4.9,5.4,8.0,5.9,9.0,7.9
-Xiom Vega Europe,TBD,Xiom,8.7,8.9,9.1,1.9,3.4,2.8,7.8,4.7,9.3,6.8
-Donic Coppa X1 Gold,TBD,Donic,9.1,8.8,8.7,1.9,3.7,5.6,8.7,4.4,9.2,7.4
-Yasaka V Stage,TBD,Yasaka,9.0,9.2,8.6,3.2,3.8,4.3,7.8,2.3,10.0,7.5
-Tibhar Genius+ Optimum,$49.95,Tibhar,9.0,9.3,8.9,2.7,4.5,5.8,9.1,5.5,9.7,6.5
-Adidas P5,TBD,Adidas,8.9,9.3,9.0,2.7,4.3,6.9,7.8,5.7,9.2,8.1
-Tibhar Evolution FX-P,$59.95,Tibhar,8.6,9.1,8.9,2.0,5.1,2.9,8.6,5.5,9.5,7.1
-Donic BlueGrip V1,TBD,Donic,8.9,9.4,8.3,7.8,6.4,7.8,8.8,5.5,9.5,9.3
-Gewo Mega Flex Control,TBD,Gewo,7.3,8.6,9.4,0.4,3.8,4.0,5.7,4.5,8.9,8.6
-Donic Coppa X2 Platin Soft,TBD,Donic,8.7,9.0,8.8,2.2,3.1,3.2,7.8,4.1,8.7,6.9
-Cornilleau Target Pro GT-H47,TBD,Cornilleau,9.3,9.2,8.7,2.4,6.3,6.7,8.9,6.6,9.0,7.9
-Donic Coppa Speed,TBD,Donic,9.3,9.0,8.3,2.5,4.6,6.7,8.1,3.5,8.8,8.3
-Andro Hexer Grip,$47.95,Andro,8.8,9.3,9.2,0.8,4.4,5.2,8.0,5.6,9.2,7.6
-Victas V > 15 Extra,TBD,Victas,9.2,9.2,8.9,1.1,6.2,6.8,8.2,5.6,9.2,6.5
-Friendship/729 Battle II,TBD,Friendship/729,8.7,9.2,9.0,8.6,6.0,8.0,8.2,5.6,8.4,8.1
-Yinhe Mercury III EURO,TBD,Yinhe (Galaxy/Milkyway),8.8,8.7,9.2,0.4,3.6,4.4,7.2,4.9,8.8,8.8
-Gewo Nexxus XT Pro 50 Hard,TBD,Gewo,9.5,9.0,8.9,1.3,6.2,7.9,7.7,3.7,9.2,7.7
-Donic Acuda S2,$48.95,Donic,8.8,9.0,8.6,2.6,4.4,4.5,7.9,5.1,9.1,7.5
-JOOLA Dynaryz ACC,TBD,JOOLA,9.2,9.1,9.1,2.1,5.3,6.6,6.5,5.0,9.4,6.8
-DHS Hurricane 8,TBD,DHS,8.5,9.3,9.0,8.1,7.0,7.6,8.9,4.7,8.6,7.8
-Xiom Omega VII Euro,TBD,Xiom,9.0,8.9,9.1,1.8,2.8,4.1,7.4,5.7,8.9,7.7
-DHS NEO Hurricane 3 Provincial (Blue Sponge),TBD,DHS,8.3,9.3,8.6,8.3,6.6,8.1,8.0,4.2,8.0,8.0
-TSP Regalis Red,TBD,TSP,9.3,9.4,9.1,0.7,3.8,5.2,8.0,5.8,9.6,8.1
-Donic Coppa X3 Silver,TBD,Donic,8.4,9.2,8.6,1.8,2.4,0.6,6.8,3.5,9.6,7.0
-DHS Skyline 3-60 Mid Hard,TBD,DHS,8.5,8.9,9.2,6.1,4.6,6.2,8.8,5.5,9.1,7.9
-Andro Hexer Grip SFX,$47.95,Andro,8.5,9.2,9.4,1.4,3.1,1.9,8.2,5.2,10.0,7.8
-Tibhar Sinus,$35.95,Tibhar,8.9,9.0,8.4,3.1,4.1,5.5,6.2,5.1,9.1,7.0
-Stiga Almana,TBD,Stiga,9.1,8.3,7.9,2.2,4.7,6.7,7.3,4.8,7.5,7.6
-Palio CJ8000 Biotech 42-44 Japanese Sponge,TBD,Palio,7.7,8.9,8.3,2.4,6.3,6.0,8.3,7.3,9.3,7.4
-Andro Good,TBD,Andro,8.7,9.0,9.1,2.7,3.8,3.7,7.9,6.2,9.5,8.3
-Xiom Omega VII Guang China,TBD,Xiom,8.8,9.2,9.1,5.0,7.6,9.2,8.2,5.6,8.5,7.7
-Stiga Mantra M,TBD,Stiga,9.1,9.0,8.8,1.6,4.6,5.3,8.0,5.2,8.9,6.9
-Gewo Hype EL Pro 42.5,TBD,Gewo,8.8,9.1,9.3,1.1,4.1,4.6,7.2,5.5,8.2,6.8
-Victas V > 15 Stiff,TBD,Victas,8.9,9.3,9.3,0.7,4.7,5.6,8.4,5.4,9.6,8.4
-Butterfly Aibiss,TBD,Butterfly,8.5,9.3,9.3,4.7,4.0,9.9,8.3,6.2,9.8,8.7
-Donic Acuda S1,$48.95,Donic,9.2,9.1,8.2,1.9,4.6,6.7,8.3,5.1,8.9,7.0
-Tibhar Primus,TBD,Tibhar,9.0,9.1,9.0,1.8,2.9,2.9,9.0,3.3,10.0,7.1
-JOOLA Phenix,TBD,JOOLA,9.2,8.3,7.7,2.5,2.9,5.5,6.3,3.6,10.0,5.3
-Palio Blitz,TBD,Palio,9.1,9.0,8.3,2.1,4.4,6.2,8.7,5.7,9.7,7.2
-Tuttle Beijing 2,TBD,Tuttle,8.5,9.3,9.1,7.3,6.2,5.4,8.1,5.3,10.0,8.4
-Tibhar Sinus Alpha,$35.95,Tibhar,8.5,9.0,8.7,1.1,2.4,2.6,7.8,6.0,9.0,7.1
-JOOLA Rhyzer Pro 50,TBD,JOOLA,9.2,9.1,8.9,0.3,5.3,7.5,8.6,5.1,9.0,5.9
-KTL (LKT) Pro XT Silver Dragon,TBD,KTL (LKT),8.9,8.8,8.6,6.5,5.6,6.1,7.9,5.3,8.8,6.5
-DHS Memo,TBD,DHS,8.5,9.4,8.8,6.8,5.2,5.8,8.6,4.6,9.1,7.3
-Xiom Omega VII Pro,TBD,Xiom,9.2,9.1,8.7,1.6,4.3,6.2,8.2,5.2,8.8,6.7
-Donic Bluefire JP 02,$36.95,Donic,8.9,8.8,8.6,1.9,5.8,5.2,8.2,4.7,8.6,7.3
-Nittaku Narucross EX Soft,TBD,Nittaku,8.8,9.3,8.7,2.5,3.2,2.8,9.4,3.2,10.0,6.8
-Butterfly Tenergy 05 Hard,$79.99,Butterfly,9.4,9.3,8.4,1.9,7.9,9.4,8.2,6.1,9.2,7.4
-Stiga Airoc S,$36.95,Stiga,8.5,9.0,9.2,4.4,4.0,2.4,7.5,5.7,8.2,7.4
-Friendship/729 Battle II Provincial,TBD,Friendship/729,8.6,9.3,8.9,8.6,4.5,8.1,8.7,4.6,8.3,7.7
-Andro Hexer Duro,$43.95,Andro,9.1,9.2,8.6,2.8,4.2,4.8,7.0,5.1,8.4,8.4
-Butterfly Tenergy 64 FX,$79.99,Butterfly,9.0,8.9,8.5,1.6,4.6,2.9,7.7,3.9,9.4,7.5
-Butterfly Bryce Speed FX,TBD,Butterfly,9.4,8.4,8.4,2.5,4.3,3.4,7.2,3.4,8.9,6.9
-JOOLA X-Plode Sensitive,TBD,JOOLA,8.5,8.7,8.7,2.2,3.8,4.2,7.7,5.3,8.3,6.9
-Gewo Neoflexx EFT 45,TBD,Gewo,7.2,8.7,9.2,3.2,3.6,4.6,4.8,5.6,8.9,7.8
-Yasaka Mark V HPS Soft,$47.95,Yasaka,8.8,9.0,8.7,2.6,3.9,3.1,8.3,4.3,9.8,8.7
-Air Illumina X88,TBD,Air,8.9,8.9,8.5,2.0,4.3,5.4,7.3,3.3,8.8,7.1
-JOOLA Express Two,TBD,JOOLA,8.6,9.0,8.8,2.2,3.6,3.6,8.2,4.8,8.6,6.2
-Adidas TenZone,TBD,Adidas,9.2,9.3,8.8,1.9,5.8,6.6,8.2,6.0,8.2,7.4
-Andro Rasanter V47,TBD,Andro,9.3,9.0,9.0,1.5,5.0,6.6,8.3,5.3,9.0,8.5
-Stiga Carbo Sound,TBD,Stiga,9.2,8.6,9.1,2.1,3.6,3.8,6.3,4.1,8.9,8.2
-DHS Hurricane 3 National (Orange Sponge),TBD,DHS,8.4,9.4,8.7,7.7,6.7,7.3,8.7,7.1,9.4,8.1
-Nittaku Flyatt Hard,$29.95,Nittaku,9.0,8.8,8.7,2.6,3.5,6.6,7.9,4.3,9.0,8.7
-Nittaku Hurricane 3 NEO,TBD,Nittaku,8.2,9.3,9.3,7.8,6.0,7.3,7.0,3.6,9.4,6.5
-Stiga Airoc Astro S,$36.95,Stiga,8.9,9.0,8.8,4.2,4.1,3.9,6.5,5.2,8.2,6.4
-Xiom Omega VII Asia,TBD,Xiom,9.1,9.3,8.5,2.1,6.1,7.9,8.5,4.1,9.7,8.2
-KTL (LKT) Red Diamond,TBD,KTL (LKT),8.5,8.8,8.7,5.3,5.9,6.6,8.2,4.5,8.1,5.9
-Loki GTX Pro,TBD,Loki,8.5,9.0,9.0,5.9,6.3,7.1,7.4,4.4,9.5,7.0
-Butterfly Bryce Speed,TBD,Butterfly,9.4,8.3,8.0,1.4,5.4,6.7,6.2,2.7,8.2,7.3
-Yinhe Big Dipper 5,TBD,Yinhe (Galaxy/Milkyway),8.4,8.9,8.9,5.3,5.7,6.4,8.9,5.1,10.0,7.7
-Juic Neo Anti,$36.95,Juic,4.5,3.5,9.2,0.4,3.8,1.0,6.3,2.6,9.4,9.2
-Palio Thors,TBD,Palio,8.7,9.3,8.4,6.4,6.7,8.1,8.0,5.0,9.1,7.3
-Yasaka Rigan,TBD,Yasaka,8.4,8.9,9.3,2.3,4.0,3.1,7.2,4.6,9.6,7.8
-Andro Plaxon 400,TBD,Andro,8.6,9.1,9.3,0.4,3.8,4.1,8.8,4.5,9.4,8.9
-Butterfly Tackifire C Soft,TBD,Butterfly,7.4,9.1,8.8,7.1,4.0,2.0,7.0,4.0,9.0,8.2
-Nittaku Factive,$39.95,Nittaku,8.5,8.6,9.1,1.6,3.4,5.2,6.9,5.0,9.7,7.9
-Palio Hidden Dragon Biotech,TBD,Palio,8.3,8.8,9.0,0.6,4.8,4.4,7.0,5.7,8.3,6.8
-Andro Hexer,TBD,Andro,8.7,9.1,8.5,2.4,5.3,6.0,8.7,5.2,9.3,7.6
-Yasaka Shining Dragon,TBD,Yasaka,8.8,9.2,9.0,7.2,4.7,5.8,8.4,6.1,9.5,8.1
-DHS Skyline TG3 (No. 21 Blue Sponge),TBD,DHS,8.8,9.4,8.8,6.8,4.4,6.3,8.2,6.2,7.2,8.9
-JOOLA Energy X-tra,TBD,JOOLA,8.3,8.5,8.6,1.3,2.5,1.5,8.4,5.3,9.4,5.5
-Andro Plasma 470,TBD,Andro,9.1,8.7,8.5,0.8,2.4,3.9,8.5,8.1,9.4,7.3
-Victas V > 01,TBD,Victas,9.1,8.9,8.9,0.6,4.5,6.3,7.5,4.0,8.3,7.0
-Palio Hadou 40+,TBD,Palio,8.7,9.0,9.1,3.7,4.6,5.8,7.1,4.6,9.1,7.4
-Stiga Power LT,TBD,Stiga,9.0,8.9,9.0,1.7,2.3,2.9,9.0,6.2,8.9,8.2
-Donic BlueGrip C1,$52.95,Donic,9.1,9.3,8.7,6.9,9.5,10.0,8.7,6.9,10.0,8.7
-Stiga Almana Sound SynergyTech,TBD,Stiga,9.5,8.7,8.7,3.3,3.4,3.3,6.1,3.4,8.3,5.7
-JOOLA Energy Green Power,TBD,JOOLA,9.0,8.5,8.1,1.5,3.1,3.4,7.9,5.1,7.1,4.7
-Tibhar Aurus Sound,$44.95,Tibhar,8.5,9.0,8.8,2.2,3.4,2.0,7.1,5.1,9.2,7.0
-Xiom Omega 2 Asian,TBD,Xiom,9.3,8.5,7.8,2.1,4.9,6.1,5.3,3.8,7.7,7.4
-Bomb Mopha,TBD,Bomb,8.5,8.1,8.7,1.1,2.6,6.1,8.0,3.4,7.5,6.8
-Xiom Vega Tour,TBD,Xiom,8.9,8.9,8.8,2.2,3.8,6.7,8.3,5.6,9.4,6.4
-Xiom Vega Pro H,TBD,Xiom,8.5,9.1,9.2,3.3,6.4,7.1,7.4,7.3,9.4,5.6
-Stiga Mantra S,TBD,Stiga,8.7,9.0,9.1,3.3,4.4,3.0,6.0,3.8,7.8,6.2
-DHS NEO Skyline 2 TG2,TBD,DHS,8.5,9.3,8.7,8.1,6.1,7.1,8.2,4.9,8.3,7.8
-Donic Acuda S3,$48.95,Donic,8.4,9.0,8.7,1.8,3.6,1.9,7.8,5.5,9.5,7.4
-DHS NEO Hurricane 3,TBD,DHS,8.4,9.3,8.7,8.1,6.6,8.0,8.7,5.8,7.4,7.5
-Yinhe Jupiter 3 Asia,TBD,Yinhe (Galaxy/Milkyway),8.7,9.0,9.0,7.0,5.8,7.4,8.3,4.7,8.6,7.9
-JOOLA Express X-plode,TBD,JOOLA,9.2,8.8,8.2,4.5,5.5,6.5,7.5,5.5,8.6,5.3
-DHS Tin Arc 5,TBD,DHS,8.6,8.9,9.0,4.7,5.8,6.2,6.5,4.5,9.3,6.9
-DHS NEO Skyline 3 TG3,TBD,DHS,8.5,9.0,8.7,7.5,6.1,7.5,8.3,4.8,7.9,7.8
-Giant Dragon SuperSpin G3 Soft,TBD,Giant Dragon,8.4,9.3,8.2,7.5,5.6,4.0,7.5,5.6,7.5,6.5
-Reactor Thunder,TBD,Reactor,8.9,8.9,8.6,6.6,6.0,7.1,7.0,5.2,8.5,7.7
-Donic Acuda Blue P1 Turbo,TBD,Donic,9.4,9.3,8.9,2.4,5.2,6.5,7.7,5.3,9.3,8.1
-Xiom Omega IV Elite,TBD,Xiom,8.2,9.2,8.9,2.2,3.4,1.2,7.3,6.2,9.2,6.4
-Donic Bluefire JP 01,TBD,Donic,8.8,9.0,8.9,2.7,5.9,6.5,8.1,5.5,8.8,7.3
-Donic Coppa,TBD,Donic,8.4,8.8,8.7,3.8,4.9,5.7,7.9,4.6,10.0,7.3
-Donic Bluefire M3,$49.95,Donic,8.4,9.1,8.9,1.8,5.3,3.1,8.1,7.2,8.9,7.9
-Nittaku Hurricane 3 (H3),TBD,Nittaku,8.7,9.2,8.9,6.3,6.9,7.6,8.1,6.4,7.3,7.0
-Tibhar Nimbus VIP,TBD,Tibhar,9.4,8.8,8.1,4.0,4.7,7.3,8.8,5.7,9.5,7.5
-SpinLord Tiger,TBD,SpinLord,8.0,8.0,8.3,2.3,3.8,6.2,7.4,5.8,10.0,7.0
-Tibhar Rapid,$38.95,Tibhar,8.3,8.2,8.2,3.2,4.1,4.6,7.5,5.5,7.7,7.5
-Stiga Neos Tacky,TBD,Stiga,7.6,9.1,9.1,7.5,2.5,4.6,6.9,6.3,8.8,5.8
-Xiom Tau,TBD,Xiom,8.6,9.5,8.7,6.4,5.5,8.3,8.4,7.5,9.6,9.2
-DHS Hurricane 3 (H3) Pro (Tuned),TBD,DHS,8.7,9.3,8.5,7.6,7.0,7.1,7.4,6.8,6.9,6.4
-Nittaku DHS Hurricane 3,TBD,Nittaku,8.3,9.3,8.9,8.2,6.7,8.1,8.3,8.0,8.1,5.6
-Loki Arthur Asia,TBD,Loki,8.4,9.0,8.9,6.8,6.8,8.0,7.7,3.3,9.0,7.1
-Tibhar Aurus Soft,$44.95,Tibhar,8.6,9.1,8.8,2.4,4.1,4.6,8.0,6.3,9.2,7.6
-Butterfly Cermet,TBD,Butterfly,8.6,8.2,8.3,0.9,2.8,4.0,8.3,2.9,10.0,7.8
-Yinhe Big Dipper,TBD,Yinhe (Galaxy/Milkyway),8.6,8.9,8.6,5.1,6.2,7.4,8.1,5.8,8.6,7.5
-Palio AK 47 Blue,TBD,Palio,8.9,8.6,8.8,0.7,2.3,2.7,6.8,4.6,8.3,7.2
-Nittaku Alhelg,TBD,Nittaku,9.1,9.2,9.1,2.3,5.3,5.3,8.5,5.7,9.2,7.5
-Stiga Magna TC II (2),TBD,Stiga,9.0,8.5,8.7,2.8,3.1,4.2,7.8,4.0,9.0,7.3
-Donic Bluestorm Z2,$52.95,Donic,9.2,9.0,8.8,1.7,5.2,6.3,8.1,5.1,9.2,5.5
-JOOLA Maxxx 450,TBD,JOOLA,9.1,8.9,8.7,0.5,5.6,5.6,8.5,5.8,9.4,7.6
-Dawei Inspirit,TBD,Dawei,8.0,8.5,8.2,2.4,5.4,4.9,5.8,3.9,6.3,8.0
-Butterfly Sriver G3 FX,TBD,Butterfly,8.6,8.4,8.6,2.7,3.7,3.3,7.9,7.1,8.0,7.1
-Donic Desto F3 Big Slam,$38.95,Donic,7.7,8.4,8.6,0.7,1.9,0.2,6.9,5.4,7.7,4.1
-Donic Desto F2,$38.95,Donic,8.7,8.7,8.2,2.0,4.0,4.8,5.7,5.1,7.5,5.7
-Butterfly Glayzer 09C,$54.99,Butterfly,8.2,9.1,9.2,4.4,4.6,7.2,8.0,7.5,9.3,7.7
-DHS Hurricane 3-50,TBD,DHS,8.1,8.9,9.0,8.5,5.8,4.7,8.0,5.3,8.1,7.0
-Gewo Nexxus EL Pro 48,TBD,Gewo,9.2,9.0,8.8,1.5,5.7,6.8,7.1,5.0,8.0,7.2
-Kokutaku 868 Training Rubber,TBD,Kokutaku,7.8,8.5,9.3,5.4,5.4,6.2,4.9,4.7,6.0,7.8
-Friendship/729 Bloom Power,TBD,Friendship/729,8.7,9.0,8.7,8.2,6.8,8.2,8.0,3.8,7.9,8.4
-Tuttle Beijing 4,TBD,Tuttle,8.3,8.5,9.1,2.1,2.9,2.6,7.2,4.5,8.9,7.9
-XuShaoFa 999 ZCD,TBD,XuShaoFa,8.7,8.8,9.0,5.6,5.6,4.6,5.5,4.3,7.5,6.9
-Stiga Calibra Tour M,TBD,Stiga,9.2,8.6,8.7,0.5,4.1,5.5,6.8,3.6,8.1,6.9
-Tibhar Sinus Sound,TBD,Tibhar,8.4,8.4,8.8,1.6,1.2,0.7,7.0,4.8,9.6,6.2
-Stiga Boost TS,TBD,Stiga,8.8,8.9,8.7,2.4,2.6,1.3,7.6,4.1,8.1,6.9
-DHS Skyline TG3,TBD,DHS,8.6,9.0,8.6,8.2,6.8,8.5,7.2,4.5,7.7,7.9
-Sanwei Target National,TBD,Sanwei,8.6,9.2,8.9,8.0,7.2,7.1,8.5,4.5,8.4,7.6
-Stiga Boost TP,TBD,Stiga,8.9,8.8,8.5,2.7,4.3,5.7,7.5,2.8,7.9,6.8
-Palio CJ8000 Biotech 40-42,TBD,Palio,8.3,8.9,9.0,2.4,5.8,5.5,7.8,7.4,7.8,7.9
-JOOLA Dynaryz ZGX,TBD,JOOLA,9.4,9.6,8.7,2.8,6.8,8.9,7.9,5.3,8.3,3.4
-Donic Desto F1,$38.95,Donic,9.4,8.6,7.4,1.9,4.4,4.4,7.2,6.4,8.0,4.9
-Yasaka Mark V XS,TBD,Yasaka,8.4,8.7,8.4,3.2,3.6,4.1,7.4,3.4,8.6,8.5
-DHS G666,TBD,DHS,7.7,9.1,9.0,7.8,6.8,6.8,7.6,6.2,7.4,6.7
-Gewo Hype EL Pro 47.5,TBD,Gewo,9.1,9.0,9.0,0.5,5.6,6.6,7.3,4.5,7.9,6.7
-Friendship/729 729-08,TBD,Friendship/729,8.5,9.2,8.8,7.4,6.1,8.5,7.5,4.9,8.4,7.2
-Friendship/729 Origin,TBD,Friendship/729,7.3,8.7,8.7,7.3,5.2,6.7,6.6,4.5,7.1,6.6
-Friendship/729 Faster 3,TBD,Friendship/729,8.9,8.8,8.8,6.2,4.9,4.8,6.6,5.6,7.5,7.9
-Yinhe Sun,TBD,Yinhe (Galaxy/Milkyway),8.8,8.9,9.1,2.0,5.8,5.2,7.2,4.3,8.4,7.5
-JOOLA Mambo H,TBD,JOOLA,8.1,8.9,8.9,3.9,3.7,5.0,7.7,5.5,9.1,7.9
-Butterfly Tackifire Special-Soft,TBD,Butterfly,7.9,9.1,9.1,3.4,5.9,3.4,8.3,5.6,9.6,8.7
-DHS Hurricane 8-80,TBD,DHS,8.1,9.3,9.1,8.1,6.8,6.4,9.1,5.0,8.5,8.3
-Friendship/729 Presto Spin Max,TBD,Friendship/729,8.6,9.2,8.8,2.4,4.5,6.8,7.0,4.3,8.6,6.2
-Xiom Vega Asia,TBD,Xiom,8.9,8.4,8.5,2.5,4.2,5.6,7.8,4.5,9.1,7.8
-Stiga DNA Pro M,TBD,Stiga,8.8,9.0,8.9,2.1,5.2,6.5,7.4,6.8,8.9,5.7
-Palio HK1997 Biotech,TBD,Palio,8.3,8.7,8.9,2.1,4.4,4.5,7.0,4.5,7.3,8.3
-Tibhar Evolution EL-S,$59.95,Tibhar,8.7,9.0,8.9,2.3,6.2,6.0,8.5,5.4,8.7,6.7
-Donic Coppa JO Gold,TBD,Donic,9.1,8.6,8.4,2.7,4.2,6.7,7.0,4.5,7.7,6.4
-Stiga Airoc M,$36.95,Stiga,8.8,9.0,8.7,2.6,5.1,5.4,7.0,5.6,8.5,7.3
-Donic Bluefire M2,$49.95,Donic,8.7,9.0,8.5,1.8,5.6,5.4,7.7,6.4,9.2,6.3
-Dawei Inspirit Quattro Ultralight 40,TBD,Dawei,8.7,8.2,8.6,2.9,3.5,5.4,8.0,4.3,9.7,8.4
-Donic Baracuda Big Slam,$44.95,Donic,8.2,9.2,8.6,2.0,4.5,2.5,6.4,5.9,9.4,6.4
-DHS Tin Arc,TBD,DHS,8.3,8.5,8.5,2.5,5.8,6.4,7.6,4.8,8.8,7.9
-Xiom Vega Japan,TBD,Xiom,9.0,8.9,8.8,1.9,5.2,5.3,8.4,4.8,9.2,7.2
-Butterfly Tenergy 80 FX,$79.99,Butterfly,8.9,8.9,8.6,1.8,4.5,3.6,7.8,5.2,8.8,7.5
-Palio HK1997 Gold,TBD,Palio,8.8,8.9,8.8,3.2,4.3,6.8,6.7,4.5,7.8,6.6
-Butterfly Glayzer,$54.99,Butterfly,8.6,8.8,9.1,2.0,5.9,6.7,6.8,6.5,9.5,7.5
-Donic Sonex JP Gold,TBD,Donic,9.0,8.6,8.1,2.3,4.3,4.5,7.0,3.3,7.9,5.6
-Butterfly Solcion,TBD,Butterfly,7.9,8.2,8.9,1.6,2.7,0.2,7.8,5.9,9.4,7.4
-JOOLA Tango Extrem,TBD,JOOLA,8.7,8.2,6.5,4.1,4.0,4.1,7.3,3.5,10.0,6.3
-Palio CJ8000 Biotech 36-38,TBD,Palio,7.6,8.5,9.2,4.6,4.5,3.3,8.3,6.1,9.0,7.3
-Friendship/729 Focus 3 Snipe,TBD,Friendship/729,8.6,8.3,8.9,1.5,2.1,3.1,7.1,4.1,8.4,6.8
-Friendship/729 729-5,TBD,Friendship/729,8.8,8.7,8.9,3.5,4.5,6.0,6.3,5.3,8.8,7.7
-JOOLA Rhyzer 48,TBD,JOOLA,9.1,9.0,8.2,0.5,5.3,5.8,7.5,5.7,6.3,5.7
-Butterfly Roundell Soft,TBD,Butterfly,8.6,8.7,8.8,2.4,2.5,0.6,7.8,4.4,9.6,6.6
-Palio CJ8000 Extreme Spin,TBD,Palio,8.3,9.0,8.9,6.4,4.2,4.8,6.3,4.9,8.6,8.3
-DHS Tin Arc 3,TBD,DHS,8.6,8.9,9.0,4.2,6.2,5.8,7.5,5.2,9.0,7.4
-Butterfly Rozena,$39.99,Butterfly,8.6,8.4,8.7,1.5,4.5,5.0,6.9,5.5,9.0,6.8
-Yasaka Mark V M2,$39.95,Yasaka,8.7,8.4,8.5,3.0,4.5,4.4,5.9,3.3,8.5,7.2
-Tibhar Legend Destroyer,TBD,Tibhar,7.5,8.4,8.3,7.2,4.1,6.2,8.0,5.3,9.4,7.7
-Dawei Saviga,TBD,Dawei,8.3,8.4,8.5,1.3,5.5,6.9,8.1,2.7,7.0,6.5
-Friendship/729 729-08 ES,TBD,Friendship/729,8.3,8.6,8.7,4.9,5.1,5.8,7.5,5.7,9.3,7.2
-Friendship/729 729 OEM,TBD,Friendship/729,8.3,8.3,9.1,5.8,3.2,5.0,6.0,4.2,8.1,6.8
-Tibhar Quantum,$39.95,Tibhar,8.4,8.9,9.1,1.6,3.0,4.8,8.5,6.2,8.3,6.9
-DHS Hurricane 9 Blue,$47.95,DHS,8.6,9.0,8.8,5.6,6.8,8.0,7.0,4.5,7.5,7.4
-DHS Hurricane 2 (No. 19 Sponge),TBD,DHS,8.7,9.0,8.7,6.9,5.3,5.3,6.3,5.8,6.4,7.9
-Nittaku Hammond,$37.95,Nittaku,9.1,8.5,8.1,1.0,2.7,2.9,6.8,2.3,7.5,6.8
-Yinhe Earth 2,TBD,Yinhe (Galaxy/Milkyway),8.7,8.1,8.9,3.1,3.8,3.4,5.8,4.8,9.3,8.6
-Nittaku Hammond X,TBD,Nittaku,8.9,8.7,8.1,3.1,4.0,5.0,5.3,2.0,8.9,7.4
-Butterfly Tackiness Chop 2,TBD,Butterfly,6.6,8.8,9.0,5.4,3.8,5.1,6.1,3.3,9.7,6.7
-Andro Backside 2.0D,TBD,Andro,7.8,9.1,9.1,3.5,5.3,4.0,7.0,4.7,9.4,7.4
-Tuttle Prevention Arc,TBD,Tuttle,5.4,5.7,9.2,0.0,1.6,0.8,1.3,1.1,10.0,8.9
-Dawei Inspirit Quattro Ultralight SV 35,TBD,Dawei,8.3,8.5,8.6,2.9,3.9,2.2,7.1,4.1,9.3,7.7
-Tibhar Super Defense 40,$59.95,Tibhar,6.3,8.7,8.6,2.0,2.7,4.7,6.4,2.6,9.2,6.8
-Palio CJ8000 Biotech 36-38 Japanese Sponge,TBD,Palio,7.6,8.7,9.2,2.6,5.2,3.7,6.8,6.2,7.8,8.5
-Friendship/729 RITC 2000 Tack Speed,TBD,Friendship/729,8.3,8.8,8.6,5.9,4.4,5.0,6.4,5.8,8.5,7.2
-Donic Vario Big Slam,TBD,Donic,7.6,8.4,8.8,0.0,2.7,0.6,6.4,4.7,7.1,5.6
-Donic Coppa JO Silver,TBD,Donic,8.6,8.8,8.2,2.5,3.5,3.0,6.7,4.8,8.5,5.8
-Tibhar Aurus Select,$34.95,Tibhar,8.8,8.9,9.2,2.3,4.2,5.0,6.8,6.7,9.0,6.4
-Dawei Sprungfeder G3 A2,TBD,Dawei,7.8,9.1,9.0,7.7,7.0,8.8,6.5,6.0,6.0,6.7
-Yasaka Zap Biotech 36-38,TBD,Yasaka,8.0,8.3,8.5,2.6,4.3,3.0,7.0,5.1,6.7,8.6
-Friendship/729 729-2 Sensor,TBD,Friendship/729,8.7,8.6,8.6,3.6,5.7,6.6,7.4,5.1,8.1,7.6
-Stiga Boost TC,TBD,Stiga,8.7,8.4,8.2,1.9,2.6,1.7,6.5,4.7,7.8,5.8
-Xiom Jekyll & Hyde V47.5,TBD,Xiom,9.3,8.8,9.0,0.6,6.3,7.8,7.8,4.5,7.9,6.5
-DHS Hurricane 3 (National),TBD,DHS,8.1,9.4,8.6,7.9,7.0,7.8,7.9,6.4,6.8,7.4
-Stiga Calibra LT Sound,TBD,Stiga,9.1,8.7,8.5,2.0,2.7,1.7,7.7,4.4,8.3,6.9
-Friendship/729 Aurora,TBD,Friendship/729,9.1,9.1,9.0,1.3,3.8,3.0,8.0,4.4,8.6,6.9
-Palio AK 47 Red,TBD,Palio,9.1,8.4,8.5,0.6,2.6,6.3,6.4,4.7,7.8,7.1
-Yasaka Mark V,$37.95,Yasaka,8.0,8.2,8.7,2.6,4.0,4.5,7.6,4.4,9.4,8.7
-Palio AK 47 Yellow Sponge,TBD,Palio,8.6,8.4,8.7,0.7,3.2,4.3,6.2,5.0,8.0,7.0
-KTL (LKT) Rapid Speed,TBD,KTL (LKT),8.5,8.5,8.5,3.3,4.4,5.8,7.0,3.4,8.9,8.0
-Yasaka Mark V 30,$37.95,Yasaka,7.3,7.9,7.6,1.9,2.4,0.7,6.7,3.8,9.4,7.1
-Yinhe Moon,TBD,Yinhe (Galaxy/Milkyway),8.7,8.6,8.8,1.9,4.5,5.5,6.1,4.7,8.1,6.5
-Donic Coppa Tagora,TBD,Donic,8.3,8.8,8.9,2.3,2.0,1.7,6.7,4.4,10.0,6.6
-Loki RXTON 3,TBD,Loki,8.3,8.7,8.8,5.7,5.6,7.5,6.3,5.1,8.6,6.1
-Yinhe Saturn Pro,TBD,Yinhe (Galaxy/Milkyway),8.6,9.0,8.9,5.5,4.3,5.7,7.5,5.0,9.0,6.1
-DHS Hurricane 2 (H2),TBD,DHS,8.5,9.3,8.0,8.6,7.6,8.7,6.3,3.4,7.1,7.9
-Yinhe Jupiter II,TBD,Yinhe (Galaxy/Milkyway),8.5,8.7,9.0,6.2,5.6,6.5,6.9,6.2,9.1,7.3
-Butterfly Sriver G2,TBD,Butterfly,8.4,8.2,8.6,2.5,4.1,5.0,5.9,4.1,9.3,7.9
-Andro Hexer Powersponge,TBD,Andro,8.3,8.8,8.9,0.4,3.8,1.7,7.9,5.3,8.9,6.6
-Friendship/729 729,TBD,Friendship/729,8.1,9.1,8.4,6.5,5.6,6.2,5.8,5.7,6.0,6.6
-Palio CJ8000 Biotech 39-41,TBD,Palio,7.1,8.6,8.7,2.5,3.5,3.5,6.1,5.8,9.3,7.7
-Donic Coppa JO Platin,TBD,Donic,9.3,8.8,7.6,2.0,3.7,5.1,6.6,3.9,8.4,4.8
-Yasaka New Era,TBD,Yasaka,8.2,8.4,7.7,6.2,4.9,7.7,6.0,5.5,10.0,7.2
-Tibhar Quantum X Pro,$61.95,Tibhar,8.9,8.1,8.5,3.0,4.0,6.4,7.0,4.8,10.0,6.4
-Tibhar Nimbus Sound,$53.95,Tibhar,8.6,8.2,8.2,0.8,1.1,0.4,6.5,5.0,8.1,4.7
-DHS NEO Hurricane 2,TBD,DHS,8.3,9.3,8.3,8.3,7.4,8.8,7.7,3.0,8.1,7.9
-Tibhar Nimbus Soft,$53.95,Tibhar,8.3,8.6,8.6,1.6,1.9,1.6,6.8,3.5,8.3,4.6
-Stiga Genesis S,$31.95,Stiga,8.5,8.9,9.0,4.3,5.1,3.8,5.9,5.3,6.5,6.7
-Andro Plasma 380,TBD,Andro,7.7,8.3,8.8,2.0,2.7,0.9,6.0,4.0,10.0,5.5
-Stiga Neos Sound SynergyTech,TBD,Stiga,8.3,8.6,8.3,1.4,2.3,2.6,7.5,4.0,7.9,5.6
-Stiga Genesis M,$31.95,Stiga,8.8,8.9,8.7,4.6,5.7,6.9,6.7,5.5,6.8,7.1
-Andro Roxon 500 Pro,TBD,Andro,9.5,8.3,7.5,1.7,5.1,6.5,5.8,3.1,9.2,4.4
-Friendship/729 Faster,TBD,Friendship/729,8.7,8.9,8.6,7.0,5.6,6.6,7.2,5.8,8.8,7.1
-Andro GTT 45,TBD,Andro,8.4,8.8,9.1,1.4,4.0,4.6,7.0,6.3,7.9,7.9
-Tibhar Vari Spin,TBD,Tibhar,7.6,8.6,8.6,3.3,4.1,3.2,5.9,4.7,9.1,6.4
-Yinhe Mercury II,TBD,Yinhe (Galaxy/Milkyway),8.4,8.8,8.7,6.1,5.0,4.7,6.6,5.6,8.2,6.2
-Yinhe Moon Speed,TBD,Yinhe (Galaxy/Milkyway),8.6,8.0,7.8,2.4,5.1,4.1,7.3,4.1,8.1,6.9
-Nittaku Magic Carbon,TBD,Nittaku,7.8,8.0,8.8,2.8,4.5,4.8,5.8,5.1,8.8,7.2
-TSP Rise Speed,TBD,TSP,8.6,8.1,8.9,1.6,2.5,5.0,7.8,7.6,10.0,6.8
-Andro Plasma 430,TBD,Andro,8.7,8.7,8.4,0.8,1.9,2.3,7.8,6.9,9.3,5.9
-Yasaka Pryde 40,TBD,Yasaka,9.2,8.6,7.4,3.7,4.0,6.2,6.7,5.0,7.0,5.3
-Friendship/729 Higher 3,TBD,Friendship/729,8.1,8.7,8.4,5.5,4.9,5.7,6.2,5.8,8.9,6.0
-Stiga Airoc Astro M,TBD,Stiga,9.0,8.6,8.5,3.1,5.8,5.7,5.8,4.8,7.8,6.0
-Butterfly Roundell,TBD,Butterfly,8.7,8.6,8.7,2.6,4.2,3.9,6.1,5.5,8.3,6.3
-999 Super 999T,TBD,999,7.5,9.0,9.0,8.8,7.1,7.1,7.3,4.9,7.3,6.9
-Andro Roxon 330,TBD,Andro,8.1,8.9,8.6,1.7,2.2,0.3,6.4,4.5,9.2,6.4
-Reactor Tornado V5,TBD,Reactor,8.1,8.7,8.7,4.4,5.0,6.6,7.0,5.3,8.9,8.1
-Butterfly Sriver L,TBD,Butterfly,8.2,8.1,8.9,2.7,5.2,6.1,7.8,4.2,9.3,7.8
-DHS G555,TBD,DHS,7.4,8.9,8.5,7.8,6.3,6.6,5.1,4.4,6.5,7.8
-Andro Revo Fire,TBD,Andro,8.3,8.3,8.5,2.4,3.8,4.6,6.0,5.2,10.0,6.6
-Sanwei Gears,TBD,Sanwei,7.7,8.8,9.3,5.2,4.5,3.7,8.9,5.4,7.5,7.0
-KTL (LKT) Pro XP,TBD,KTL (LKT),7.5,8.6,9.0,4.8,2.6,2.1,5.1,5.0,8.0,7.1
-Adidas TenZone SF,TBD,Adidas,8.8,8.8,8.2,0.7,5.7,5.0,7.5,6.7,7.7,6.8
-DHS Hurricane 3 (No. 19 Sponge),TBD,DHS,7.7,9.2,9.0,8.1,6.5,6.8,7.0,6.9,5.5,7.9
-Andro Roxon 450,TBD,Andro,9.2,7.8,8.0,1.4,4.0,3.9,7.5,3.5,8.5,5.8
-Stiga Magna,TBD,Stiga,8.4,8.7,8.1,4.0,4.6,5.6,5.2,4.9,8.1,6.3
-Tibhar Nimbus,$53.95,Tibhar,9.1,8.6,8.0,3.4,4.5,5.1,6.3,5.1,6.3,5.3
-Yinhe Apollo,TBD,Yinhe (Galaxy/Milkyway),8.1,9.0,8.4,7.6,6.1,5.9,7.2,6.4,6.0,5.4
-Stiga DNA Platinum M,$74.95,Stiga,8.9,8.8,8.1,1.1,5.1,6.1,6.7,5.3,8.6,7.3
-Stiga DNA Pro S,TBD,Stiga,8.5,8.7,8.7,2.4,4.9,3.5,6.1,6.0,7.9,6.3
-Adidas P3,TBD,Adidas,8.7,8.4,8.4,1.8,3.1,4.2,7.9,5.0,8.1,7.0
-Sauer & Troger Secret Flow Chop,TBD,Sauer & Troger,7.3,9.1,9.5,5.9,3.7,4.0,7.7,5.1,10.0,7.8
-Loki RXTON 5,TBD,Loki,8.6,8.7,8.6,5.3,5.9,8.3,7.0,3.5,9.3,7.5
-Dawei Inspirit Quattro,TBD,Dawei,8.7,8.1,8.0,2.4,6.5,4.3,5.8,3.7,8.3,7.4
-JOOLA 4 You,TBD,JOOLA,6.7,7.2,8.9,0.4,3.4,3.3,5.1,5.3,7.2,6.2
-Donic Desto F3,$38.95,Donic,7.3,8.4,8.4,1.6,3.6,1.2,5.4,4.5,9.1,5.6
-Tibhar Genius+ Optimum Sound,TBD,Tibhar,8.8,8.8,8.3,1.3,3.0,1.5,7.5,4.8,9.2,6.6
-Nittaku Flyatt Soft,TBD,Nittaku,8.5,8.2,8.9,0.9,2.7,2.4,7.3,4.2,10.0,7.9
-Palio CJ8000 36-38,TBD,Palio,8.0,8.3,8.8,4.1,5.0,4.4,4.7,4.5,8.0,6.9
-Butterfly Sriver FX,$32.99,Butterfly,7.9,8.1,8.6,2.7,3.5,2.6,7.1,4.8,8.4,7.1
-Butterfly Sriver EL,$32.99,Butterfly,7.8,7.8,8.5,2.6,4.0,3.9,6.9,4.4,9.2,7.1
-Friendship/729 GeoSpin Tacky,TBD,Friendship/729,7.2,9.1,8.5,7.0,4.2,5.6,5.0,5.0,8.7,6.4
-Gambler Reflectoid,TBD,Gambler,5.5,8.0,8.8,7.3,2.3,1.7,5.9,4.3,9.1,7.0
-JOOLA Air! ROSnet,TBD,JOOLA,8.9,8.0,8.1,2.0,2.7,3.1,7.0,4.6,8.8,6.3
-Friendship/729 Higher,TBD,Friendship/729,8.1,8.9,8.5,6.6,5.6,5.9,5.9,5.2,7.5,7.8
-Friendship/729 Sky Wing,TBD,Friendship/729,7.4,8.3,8.7,5.5,2.6,2.5,5.3,4.8,9.0,6.2
-Yinhe Apollo III,TBD,Yinhe (Galaxy/Milkyway),8.4,9.3,8.9,8.7,6.5,6.0,7.0,6.5,7.9,6.4
-SpinLord Marder,TBD,SpinLord,6.2,8.0,8.9,3.0,3.8,3.1,4.8,3.1,8.5,6.3
-JOOLA Samba,TBD,JOOLA,7.7,8.7,9.0,2.4,3.2,0.6,7.0,5.4,8.1,6.9
-Haifu Blue Whale III (Tuned),TBD,Haifu,7.5,8.8,7.7,6.2,5.5,6.7,6.8,5.9,5.4,5.6
-Butterfly Sriver,$32.99,Butterfly,8.0,8.0,8.5,2.4,4.4,5.3,7.3,3.9,9.0,7.6
-DHS Hurricane 3 (H3),TBD,DHS,8.1,8.9,8.6,8.2,7.0,8.5,7.4,5.4,6.8,7.6
-Donic Slice 40,TBD,Donic,6.0,8.5,9.0,1.6,1.8,3.3,4.5,2.9,8.2,8.0
-Giant Dragon Submarine,TBD,Giant Dragon,6.4,8.2,9.3,5.5,4.1,3.9,6.4,4.1,9.1,7.5
-Butterfly Tackiness Drive,$34.99,Butterfly,6.9,8.4,8.9,5.5,4.2,4.9,6.7,5.1,9.8,8.6
-Sanwei Gear Hyper,TBD,Sanwei,8.6,8.4,8.8,1.9,4.3,6.2,8.3,3.3,7.5,7.4
-Globe 999,TBD,Globe,7.9,9.0,8.7,6.1,5.5,6.8,6.3,4.8,7.8,7.6
-Yasaka Mark V GPS,TBD,Yasaka,7.5,7.9,8.3,3.9,3.4,3.3,6.3,4.7,9.4,7.6
-Palio Hadou Biotech,TBD,Palio,8.8,9.2,8.8,7.2,6.3,7.2,7.8,6.7,5.7,3.5
-SpinLord Marder II,TBD,SpinLord,7.3,8.3,8.8,3.5,3.9,5.0,6.8,4.1,8.2,5.7
-Giant Dragon TopENERGY Soft,TBD,Giant Dragon,7.8,9.4,7.9,4.8,6.7,6.8,7.0,5.8,9.1,6.3
-Yinhe Mars V2,TBD,Yinhe (Galaxy/Milkyway),8.3,8.3,8.6,2.2,5.1,5.1,5.7,4.4,8.6,6.3
-DHS G888,TBD,DHS,8.1,8.8,8.4,7.8,6.8,7.6,6.8,5.1,7.4,7.3
-XuShaoFa 999 LSZ,TBD,XuShaoFa,8.5,9.1,9.0,6.1,4.6,6.6,6.8,6.6,7.4,7.0
-Kokutaku 868,TBD,Kokutaku,8.2,8.3,8.6,5.9,3.6,4.2,6.5,4.7,8.6,7.8
+Name,Brand,Price,Speed,Spin,Tackiness,Overall,Ratings
+61 Second Eagle,61 Second,$10.00,7.3,7.6,3.5,7.3,8
+61 Second Kangaroo,61 Second,$30.00,7.7,8,5.3,7.4,8
+61 Second Lightning DS (Non-tacky),61 Second,$15.00,7.2,7.4,2.5,7.2,6
+61 Second Lightning DS LST,61 Second,$12.00,6.9,8.6,8.3,8.4,10
+61 Second Lightning DS PRO,61 Second,$15.00,7.9,8.6,5,8.3,4
+61 Second Thunder LM ST,61 Second,$12.00,7.5,8.9,6.3,8.5,6
+999 Super 999T,999,$11.00,7.5,9,8.8,8.6,57
+Adidas P3,Adidas,$70.00,8.7,8.4,1.8,8.6,18
+Adidas P5,Adidas,$52.00,8.9,9.3,2.7,9.1,27
+Adidas P7,Adidas,$50.00,8.8,9.5,2.1,9.4,82
+Adidas R4 Response,Adidas,$60.00,8.3,7.5,0.7,8.5,6
+Adidas R6 Response,Adidas,$60.00,8.8,8.9,2.1,8.9,8
+Adidas SynTec,Adidas,$59.00,8.3,8.4,1.8,8.5,9
+Adidas SynTec Fast,Adidas,$54.00,9,8.6,2.2,9,9
+Adidas TenZone,Adidas,$79.00,9.2,9.3,1.9,9,18
+Adidas TenZone SF,Adidas,$79.00,8.8,8.8,0.7,8.6,14
+Adidas Tenzone Ultra,Adidas,$50.00,9.2,9.4,2.3,9.4,19
+Adidas TenZone Ultra SF,Adidas,$40.00,9,9.2,2.4,9.3,14
+Air DefenderS,Air,$10.00,6.6,7.8,7.8,8.5,4
+Air Illumina,Air,$16.00,8.1,8.4,3.1,8.4,11
+Air Illumina X88,Air,$25.00,8.9,8.9,2,9,25
+Air Scirocco SF,Air,$25.00,8.2,8.2,3.9,8.8,8
+Andro Backside 2.0 C,Andro,$30.00,7,9.2,3.9,8.8,8
+Andro Backside 2.0D,Andro,$30.00,7.8,9.1,3.5,8.8,14
+Andro Good,Andro,$35.00,8.7,9,2.7,9.1,12
+Andro GTT 40,Andro,$25.00,8.4,8.8,1.8,9,9
+Andro GTT 45,Andro,$45.00,8.4,8.8,1.4,8.7,20
+Andro Hexer,Andro,$47.00,8.7,9.1,2.4,9,47
+Andro Hexer Duro,Andro,$34.00,9.1,9.2,2.8,9.1,42
+Andro Hexer Grip,Andro,$48.00,8.8,9.3,0.8,9.1,34
+Andro Hexer Grip SFX,Andro,$48.00,8.5,9.2,1.4,9.1,40
+Andro Hexer HD,Andro,$50.00,9.3,9.2,2.8,9.2,39
+Andro Hexer Powergrip,Andro,$48.00,9.2,9.3,1.2,9.4,46
+Andro Hexer Powergrip SFX,Andro,$48.00,8.7,9,1.6,9.3,32
+Andro Hexer Powersponge,Andro,$48.00,8.3,8.8,0.4,8.7,27
+Andro Hexer+,Andro,$55.00,9.3,9,1.4,9.2,26
+Andro Impuls,Andro,$32.00,7.3,8.2,2.3,6.8,6
+Andro Impuls Powersponge,Andro,$47.00,8.5,9.2,1.7,9.2,12
+Andro Impuls Speed,Andro,$44.00,7.5,7.9,1.1,7.9,14
+Andro NUZN 50,Andro,$69.00,9.1,9.4,2.1,9.3,7
+Andro NUZN 55,Andro,$69.00,9.6,9.4,2.2,9.4,12
+Andro Plasma 380,Andro,$47.00,7.7,8.3,2,8.7,14
+Andro Plasma 430,Andro,$47.00,8.7,8.7,0.8,8.6,26
+Andro Plasma 470,Andro,$43.99,9.1,8.7,0.8,9,28
+Andro Plasma Women,Andro,$37.00,8.6,8.7,1.2,9.2,20
+Andro Plaxon 350,Andro,$44.00,8.8,9.3,0.5,9.2,4
+Andro Plaxon 400,Andro,$44.00,8.6,9.1,0.4,9,14
+Andro Plaxon 450,Andro,$44.00,9.1,9,0.8,9,5
+Andro Plaxon 525,Andro,$52.00,9.2,9.1,1.3,9.2,6
+Andro Rasant,Andro,$57.00,9.2,9.3,2.1,9.4,147
+Andro Rasant Beat,Andro,$56.00,8.8,9.1,1.7,9.2,22
+Andro Rasant Grip,Andro,$53.00,9.1,9.4,2.4,9.4,124
+Andro Rasant PowerGrip,Andro,$35.00,9.4,9.3,2.1,9.4,64
+Andro Rasant Powersponge,Andro,$53.00,8.7,9.3,2.3,9.3,48
+Andro Rasant Turbo,Andro,$43.00,9.5,9.1,1.5,9.4,39
+Andro Rasanter C45,Andro,$60.00,9.1,9.2,3.5,9.4,5
+Andro Rasanter C48,Andro,$60.00,8.8,9.3,4.1,9.4,18
+Andro Rasanter C53,Andro,$60.00,9.2,9.2,4.6,9.2,9
+Andro Rasanter R37,Andro,$46.00,8.7,9.1,1.6,9.2,44
+Andro Rasanter R42,Andro,$41.00,8.9,9.2,2.1,9.2,67
+Andro Rasanter R45,Andro,$58.00,8.8,9.2,0.9,9.3,24
+Andro Rasanter R47,Andro,$41.00,9.4,9.3,1.8,9.3,93
+Andro Rasanter R48,Andro,$58.00,8.9,9.4,2,9.3,52
+Andro Rasanter R50,Andro,$65.00,9.4,9.4,1.8,9.4,43
+Andro Rasanter R53,Andro,$58.00,9.5,9.4,1.4,9.4,38
+Andro Rasanter V42,Andro,$50.00,9,9,1.9,9.1,22
+Andro Rasanter V47,Andro,$50.00,9.3,8.9,1.5,8.9,22
+Andro Revo Fire,Andro,$45.00,8.3,8.3,2.4,8.6,12
+Andro Revolution Quad 420,Andro,$43.00,8.1,7.9,3.7,5.8,7
+Andro Rocket Hard,Andro,$30.00,8.4,8.8,4,7.9,5
+Andro Rocket Medium,Andro,$30.00,7.9,7.5,0.7,7.7,8
+Andro Roxon 330,Andro,$49.00,8.1,8.9,1.7,8.6,19
+Andro Roxon 450,Andro,$49.00,9.2,7.8,1.4,8.6,15
+Andro Roxon 500 Pro,Andro,$50.00,9.5,8.3,1.7,8.7,17
+Andro Shifter,Andro,$42.00,8.3,8.5,0.5,9,4
+Andro Shifter PowerSponge,Andro,$37.00,8.4,8.9,1.5,9.1,7
+Andro Upgrade,Andro,$10.00,6.7,7.4,1,7.6,7
+Armstrong New Anti Spin,Armstrong,$42.00,5.5,5.9,4.3,9,4
+Avalox Pronte,Avalox (AVX),$26.00,7.8,8.4,3.5,8.8,4
+Avalox Purot,Avalox (AVX),$22.00,7.7,8.4,4,8.8,7
+Avalox Sterco,Avalox (AVX),$32.00,8.6,8.5,0.8,8.4,9
+Banda Helix Energix,Banda,$24.00,8.9,7.7,3.2,8.5,7
+Banda Rossa Soft,Banda,$25.00,7.1,7.8,0,6.9,6
+Banda Sigma,Banda,$33.00,8.3,7.3,1.2,8.1,6
+Boer Sriver-HE,Boer,$7.00,7.6,7.3,4,8,4
+Bomb Bombard Hard (43-46°),Bomb,$17.00,8.5,8.1,3.5,8.4,5
+Bomb Mopha,Bomb,$18.00,8.5,8.1,1.1,9,10
+Butterfly Addoy,Butterfly,$5.00,5.1,5.3,1.1,6.4,18
+Butterfly Aibiss,Butterfly,$40.00,8.5,9.3,4.7,9.1,22
+Butterfly Bryce,Butterfly,$67.00,9,7.5,2,7.8,31
+Butterfly Bryce FX,Butterfly,$67.00,8.6,8.2,1.5,8.4,24
+Butterfly Bryce High Speed,Butterfly,$63.00,9.6,8.8,1.6,9.3,34
+Butterfly Bryce High Tune,Butterfly,$48.00,9.1,8.8,1,9.1,4
+Butterfly Bryce Speed,Butterfly,$55.00,9.4,8.3,1.4,9,43
+Butterfly Bryce Speed FX,Butterfly,$55.00,9.4,8.4,2.5,9.1,44
+Butterfly Catapult,Butterfly,$52.00,9,8.7,2.3,8.4,9
+Butterfly Cermet,Butterfly,$43.00,8.6,8.2,0.9,8.9,10
+Butterfly Dignics 05,Butterfly,$94.00,9.1,9.4,1.8,9.3,80
+Butterfly Dignics 09C,Butterfly,$94.00,8.8,9.5,5.5,9.3,92
+Butterfly Dignics 64,Butterfly,$94.00,9.5,9.1,1.6,9.3,18
+Butterfly Dignics 80,Butterfly,$94.00,9.4,9.1,1.7,9.3,30
+Butterfly Ekrips,Butterfly,$37.00,7.6,7,1.5,6.7,6
+Butterfly Ekrips Soft,Butterfly,$35.00,7.9,7.3,1,7.7,4
+Butterfly Flextra,Butterfly,$20.00,7,7.4,2.6,7.8,58
+Butterfly Glayzer,Butterfly,$55.00,8.6,8.8,2,8.8,15
+Butterfly Glayzer 09C,Butterfly,$45.00,8.2,9.1,4.4,8.9,33
+Butterfly Pan Asia,Butterfly,$10.00,6.5,6.8,2.1,6.8,17
+Butterfly Roundell,Butterfly,$55.00,8.7,8.6,2.6,8.6,28
+Butterfly Roundell Hard,Butterfly,$55.00,8.8,9,1.5,8.9,4
+Butterfly Roundell Soft,Butterfly,$55.00,8.6,8.7,2.4,8.8,16
+Butterfly Rozena,Butterfly,$40.00,8.6,8.4,1.5,8.8,90
+Butterfly Sapphira,Butterfly,$28.00,8.2,8.5,2.6,8.4,12
+Butterfly SOFT D13,Butterfly,$8.00,8.1,8.1,4.6,8.1,6
+Butterfly Solcion,Butterfly,$53.00,7.9,8.2,1.6,8.8,23
+Butterfly Spin Art,Butterfly,$55.00,8.6,9.3,6,9.3,50
+Butterfly Sriver,Butterfly,$35.00,8,8,2.4,8.5,103
+Butterfly Sriver EL,Butterfly,$33.00,7.8,7.8,2.6,8.5,65
+Butterfly Sriver FX,Butterfly,$40.00,7.9,8.1,2.7,8.5,69
+Butterfly Sriver G2,Butterfly,$56.00,8.4,8.2,2.5,8.7,20
+Butterfly Sriver G2 FX,Butterfly,$56.00,7.9,8.2,1.9,8.4,27
+Butterfly Sriver G3,Butterfly,$57.00,8.4,8.2,3,8.4,39
+Butterfly Sriver G3 FX,Butterfly,$59.00,8.6,8.4,2.7,8.9,50
+Butterfly Sriver High Tune,Butterfly,$55.00,8.3,8.3,4,8.7,7
+Butterfly Sriver L,Butterfly,$28.00,8.2,8.1,2.7,8.6,24
+Butterfly Sriver S,Butterfly,$28.00,7.3,6.5,2.3,8.3,4
+Butterfly Super Anti (Anti-spin),Butterfly,$41.00,4.4,2.6,0,8.4,19
+Butterfly Super Anti Special (Anti-spin),Butterfly,$34.00,6,5.3,1.7,9.3,4
+Butterfly Tackifire C,Butterfly,$52.00,6.8,8.8,7.3,7.5,15
+Butterfly Tackifire C Soft,Butterfly,$52.00,7.4,9.1,7.1,9,14
+Butterfly Tackifire Drive,Butterfly,$41.00,7.6,8.7,5,8.4,13
+Butterfly Tackifire Special-Soft,Butterfly,$51.00,7.9,9.1,3.4,8.9,20
+Butterfly Tackiness Chop,Butterfly,$35.00,5.5,9,5.7,8.4,33
+Butterfly Tackiness Chop 2,Butterfly,$45.00,6.6,8.8,5.4,8.8,23
+Butterfly Tackiness Drive,Butterfly,$50.00,6.9,8.4,5.5,8.5,43
+Butterfly Tenergy 05,Butterfly,$80.00,9.3,9.4,2.3,9.3,379
+Butterfly Tenergy 05 FX,Butterfly,$80.00,9.1,9.2,2.9,9.3,166
+Butterfly Tenergy 05 Hard,Butterfly,$80.00,9.4,9.3,1.9,9.1,33
+Butterfly Tenergy 19,Butterfly,$80.00,9,9.2,1.6,9.3,37
+Butterfly Tenergy 25,Butterfly,$80.00,9.2,9.1,2.5,9.3,75
+Butterfly Tenergy 25 FX,Butterfly,$80.00,9.1,9.2,2.7,9.4,37
+Butterfly Tenergy 64,Butterfly,$80.00,9.3,8.8,2.5,9.3,173
+Butterfly Tenergy 64 FX,Butterfly,$80.00,9,8.9,1.6,9.1,44
+Butterfly Tenergy 80,Butterfly,$80.00,9.3,9.4,2.1,9.4,120
+Butterfly Tenergy 80 FX,Butterfly,$80.00,8.9,8.9,1.8,8.8,25
+Butterfly Wakaba,Butterfly,$30.00,5.3,5.3,0.6,5.8,13
+Butterfly Wakaba D-13,Butterfly,,6.4,6.2,1,7,4
+Butterfly Yuki,Butterfly,$10.00,6.5,7,6.6,7.5,14
+Butterfly Zyre 03,Butterfly,$120.00,9.2,9.5,2.3,9.3,13
+Champion Next,Champion,$19.00,7.6,7.3,0,7.3,4
+Cornilleau Pilot Advance,Cornilleau,$8.00,9.4,9.1,0.3,9.2,8
+Cornilleau Pilot Control,Cornilleau,$8.00,7.4,7.2,4,8.1,5
+Cornilleau Pilot Power,Cornilleau,$8.00,8.3,7.7,1.2,8.4,7
+Cornilleau Pilot Style,Cornilleau,$8.00,8.1,8.9,0,8.7,5
+Cornilleau Target Force 45,Cornilleau,$10.00,8.8,8.8,3.2,9.1,5
+Cornilleau Target Pro GT X51,Cornilleau,$40.00,9.3,9.2,1.5,9.2,14
+Cornilleau Target Pro GT-H47,Cornilleau,$40.00,9.3,9.2,2.4,9.1,28
+Cornilleau Target Pro GT-M43,Cornilleau,$35.00,9,8.8,1.5,8.8,4
+Cornilleau Target Pro GT-S39,Cornilleau,$35.00,8.7,9.2,0.8,9.1,6
+Cornilleau Target Sound 37.5,Cornilleau,$10.00,8.6,9.3,0.8,9.2,6
+Cornilleau Target Ultim 47.5,Cornilleau,$10.00,9.3,9.2,2,9.2,5
+CTT National Hero,CTT,$7.00,7.5,9,7.2,8.7,8
+CTT National Pride,CTT,$14.00,8.2,8.5,4.4,8.1,5
+CTT National Strike,CTT,$14.00,7.3,8.6,6.2,8.2,10
+Darker VLON-S Blue V,Darker,$11.00,8.9,9.1,7.2,9.2,21
+Dawei 08,Dawei,$13.99,8.6,8.1,6.8,8.4,5
+Dawei 2008 (Super Power),Dawei,$8.00,7.5,7.6,3.8,7.8,10
+Dawei 2008 XP (Super Power),Dawei,$9.00,8,8.1,4.3,8.2,37
+Dawei 388A-4 Speed+Spin Type,Dawei,$22.00,8.8,8.6,5.9,8.5,7
+Dawei Genote Peak Power,Dawei,$24.00,8.5,8.8,4.6,9.1,8
+Dawei Inspirit,Dawei,$12.00,8,8.5,2.4,8.9,24
+Dawei Inspirit Quattro,Dawei,$14.00,8.7,8.1,2.4,8.5,29
+Dawei Inspirit Quattro Ultralight 40,Dawei,$16.00,8.7,8.2,2.9,8.9,23
+Dawei Inspirit Quattro Ultralight Power 42,Dawei,$16.00,8.8,8,2.7,8.2,9
+Dawei Inspirit Quattro Ultralight SV 35,Dawei,$16.00,8.3,8.5,2.9,8.8,22
+Dawei Navigator GT-A4,Dawei,$9.00,8.2,8.2,5.5,7.8,9
+Dawei Saviga,Dawei,$16.00,8.3,8.4,1.3,8.8,10
+Dawei Sprungfeder G3 A2,Dawei,$14.00,7.8,9.1,7.7,8.8,13
+Der Materialspezialist Beast,Der Materialspezialist,$66.00,4.2,1.9,0.5,8.9,4
+Der Materialspezialist Diabolic,Der Materialspezialist,$55.00,4.4,5.8,1,7.7,4
+Der Materialspezialist Mega-Block,Der Materialspezialist,$50.00,4.3,1.4,0,8,4
+Der Materialspezialist Transformer,Der Materialspezialist,$60.00,4.2,1.4,0,8.1,5
+Derwind Rayhe,Derwind,$36.90,8.2,7.9,2.7,8.5,6
+Derwind Stolz,Derwind,$36.90,8.4,8.7,0.8,8.8,5
+DHS 6512,DHS,$15.00,7.1,8.2,5,6.8,6
+DHS Dipper,DHS,$20.00,8,7.5,1.8,7.4,7
+DHS Dipper 2,DHS,$20.00,7.8,8.4,3.5,8,4
+DHS G555,DHS,$15.00,7.4,8.9,7.8,8.6,24
+DHS G666,DHS,$20.00,7.7,9.1,7.8,8.9,37
+DHS G777,DHS,$14.00,6.6,8.2,7.4,7.7,9
+DHS G888,DHS,$20.00,8.1,8.8,7.8,8.4,49
+DHS Gold Arc 3,DHS,$39.00,8.8,9.1,5.1,9.3,17
+DHS Gold Arc 5,DHS,$38.00,8.7,9,2.3,9.2,41
+DHS Gold Arc 8,DHS,$67.00,9.4,9.3,2,9.4,146
+DHS Gold Arc 9,DHS,$38.00,9,9.4,0.5,9.5,11
+DHS H8-80,DHS,$30.00,8.2,9,7.4,9.3,7
+DHS Hurricane 2 (H2),DHS,$22.00,8.5,9.3,8.6,8.7,76
+DHS Hurricane 2 (No. 19 Sponge),DHS,$18.00,8.7,9,6.9,8.8,10
+DHS Hurricane 2 National (Signature),DHS,$42.00,9.4,9.5,6.7,9.3,7
+DHS Hurricane 3 (H3),DHS,$30.00,8.1,8.9,8.2,8.5,143
+DHS Hurricane 3 (H3) Pro (Tuned),DHS,$55.00,8.7,9.3,7.6,8.9,10
+DHS Hurricane 3 (National),DHS,$115.00,8.1,9.4,7.9,8.7,18
+DHS Hurricane 3 (No. 19 Sponge),DHS,$60.00,7.7,9.2,8.1,8.6,23
+DHS Hurricane 3 (Provincial),DHS,$50.00,8.5,9.3,8.3,9.2,42
+DHS Hurricane 3 Ma Long Forehand (Global Edition) Blue Sponge,DHS,$115.00,9.8,10,10,9.9,6
+DHS Hurricane 3 National (Blue Sponge),DHS,$96.00,9.2,9.6,8.5,9.5,63
+DHS Hurricane 3 National (Orange Sponge),DHS,$77.00,8.4,9.3,7.6,9,24
+DHS Hurricane 3 Provincial (No. 22 Blue Sponge),DHS,$55.00,9.2,9.4,7.6,9.4,39
+DHS Hurricane 3-50,DHS,$45.00,8.1,8.9,8.5,8.9,33
+DHS Hurricane 3-50 Soft,DHS,$40.00,8.1,8.9,8.1,8.4,13
+DHS Hurricane 8,DHS,$45.00,8.5,9.3,8.1,9.1,70
+DHS Hurricane 8 Hard,DHS,$32.00,8.7,9.3,7.6,9.2,27
+DHS Hurricane 8-80,DHS,$40.00,8.1,9.2,8.1,8.8,18
+DHS Hurricane 9 Blue,DHS,$30.00,8.6,9,5.6,8.8,10
+DHS Hurricane 9 Pink,DHS,$38.00,8.3,9.6,7,9.6,5
+DHS Hurricane 9 Violet,DHS,$35.00,9,9.3,7.8,9.5,6
+DHS Memo,DHS,$20.00,8.5,9.4,6.8,9.1,24
+DHS Memo 2,DHS,$14.00,8.1,8.8,2.9,9,7
+DHS Memo 3,DHS,$14.00,8,8.1,4,8.3,12
+DHS NEO Hurricane 2,DHS,$22.00,8.3,9.3,8.3,8.7,45
+DHS NEO Hurricane 3,DHS,$20.00,8.4,9.3,8.1,9,319
+DHS NEO Hurricane 3 National (Blue Sponge),DHS,$110.00,9.1,9.4,7.7,9.4,39
+DHS NEO Hurricane 3 Provincial (Blue Sponge),DHS,$100.00,8.3,9.3,8.3,9.1,26
+DHS NEO Hurricane 3 Provincial (Orange Sponge),DHS,$55.00,8.6,9.4,7.8,9.3,52
+DHS NEO Skyline 2 TG2,DHS,$32.00,8.5,9.3,8.1,9,112
+DHS NEO Skyline 3 TG3,DHS,$24.00,8.5,9,7.5,9,90
+DHS PF4,DHS,$14.00,6.6,8.2,6.4,8.1,25
+DHS PF4 40+,DHS,$10.00,7.5,8.4,7.1,8.3,27
+DHS PF4-1,DHS,$20.00,7,7.5,5.3,7.7,8
+DHS PF4-50,DHS,$30.00,6.3,7.7,4.2,8.1,6
+DHS Skyline 2 Provincial Blue Sponge,DHS,$40.00,8.3,9.5,8.6,9.4,15
+DHS Skyline 3 Provincial (Blue Sponge),DHS,$53.00,8.5,9.4,8.6,9.5,5
+DHS Skyline 3-60 Mid Hard,DHS,$25.00,8.5,8.9,6.1,9.1,24
+DHS Skyline 3-60 Soft,DHS,$24.00,8.1,8.7,6.9,8.9,8
+DHS Skyline TG2,DHS,$17.00,7.5,8.6,7.1,7.9,21
+DHS Skyline TG2 (No. 19 Sponge),DHS,$15.00,7.9,8.4,7,8,12
+DHS Skyline TG3,DHS,$27.00,8.6,9,8.2,8.9,56
+DHS Skyline TG3 (No. 21 Blue Sponge),DHS,$18.00,8.8,9.4,6.8,9,13
+DHS Tin Arc,DHS,$43.00,8.3,8.5,2.5,8.8,22
+DHS Tin Arc 3,DHS,$43.00,8.6,8.9,4.2,8.8,57
+DHS Tin Arc 5,DHS,$40.00,8.6,8.9,4.7,9,23
+DHS TNT,DHS,$20.00,7.6,7.3,3,7.9,9
+Donic Acuda Blue P1,Donic,$44.00,9.3,9.2,2.6,9.3,26
+Donic Acuda Blue P1 Turbo,Donic,$54.00,9.4,9.3,2.4,9,18
+Donic Acuda Blue P2,Donic,$54.00,9,9.4,2.8,9.5,57
+Donic Acuda Blue P3,Donic,$54.00,8.2,8.5,2.2,8.4,10
+Donic Acuda S1,Donic,$52.00,9.2,9.1,1.9,9.1,58
+Donic Acuda S1 Turbo,Donic,$52.00,9.4,9.1,3.2,9.3,50
+Donic Acuda S2,Donic,$37.00,8.8,9,2.6,9.1,111
+Donic Acuda S3,Donic,$52.00,8.4,9,1.8,9,74
+Donic Akkadi Taichi,Donic,$20.00,6.8,8.8,5.4,8.3,17
+Donic Akkadi Taichi (Red),Donic,$38.00,7.4,9.1,5,9.2,5
+Donic Baracuda,Donic,$60.00,8.7,9.5,2.3,9.3,221
+Donic Baracuda Big Slam,Donic,$70.00,8.2,9.2,2,8.9,33
+Donic Bluefire Big Slam,Donic,$50.00,8.2,8.4,2,7.9,7
+Donic Bluefire JP 01,Donic,$54.00,8.8,9,2.7,9,28
+Donic Bluefire JP 01 Turbo,Donic,$54.00,9.3,9.4,3.8,9.2,25
+Donic Bluefire JP 02,Donic,$54.00,8.9,8.8,1.9,9.1,23
+Donic Bluefire JP 03,Donic,$54.00,8.6,9.1,2,9.3,51
+Donic Bluefire M1,Donic,$55.00,9.3,9.2,2.7,9.2,89
+Donic Bluefire M1 Turbo,Donic,$50.00,9.5,9.4,2.6,9.5,32
+Donic Bluefire M2,Donic,$55.00,8.7,9,1.8,8.9,67
+Donic Bluefire M3,Donic,$55.00,8.4,9.1,1.8,8.9,51
+Donic BlueGrip C1,Donic,$55.00,9.1,9.3,6.9,9,10
+Donic BlueGrip C2,Donic,$55.00,9.2,9.4,5.5,9.4,39
+Donic BlueGrip J1,Donic,$60.00,9.3,9.3,5,9.6,7
+Donic BlueGrip R1,Donic,$40.00,8.5,9.5,5.5,8.8,8
+Donic Bluegrip S1,Donic,$50.00,8.4,9.1,4.6,8.9,7
+Donic BlueGrip S2,Donic,$49.72,8.2,9.1,4.4,9.2,15
+Donic BlueGrip V1,Donic,$40.00,8.9,9.4,7.8,9.1,15
+Donic BlueStar A1,Donic,$65.00,9.4,9.4,2.3,9.4,22
+Donic BlueStar A2,Donic,$65.00,9.3,9.5,5.2,9.6,5
+Donic BlueStar A3,Donic,$65.00,8.9,9.6,3,9.7,6
+Donic Bluestorm Big Slam,Donic,$49.00,8.2,7.9,2.8,8.1,5
+Donic Bluestorm Pro,Donic,$56.00,9.2,9.6,2.7,9.6,8
+Donic Bluestorm Pro AM,Donic,$60.00,9.1,9.5,1.4,9.5,15
+Donic Bluestorm Z1,Donic,$60.00,9.3,9.3,2.1,9.3,28
+Donic Bluestorm Z1 Turbo,Donic,$44.00,9.4,9,1.8,9.1,37
+Donic Bluestorm Z2,Donic,$48.00,9.2,9,1.7,8.9,31
+Donic Bluestorm Z3,Donic,$40.00,8.5,8.5,2.6,8.2,17
+Donic Coppa,Donic,$37.00,8.4,8.8,3.8,9,16
+Donic Coppa JO,Donic,$34.00,8.6,8.9,3,9,6
+Donic Coppa JO Gold,Donic,$38.00,9.1,8.6,2.7,8.9,30
+Donic Coppa JO Platin,Donic,$48.95,9.3,8.8,2,8.7,35
+Donic Coppa JO Platin Soft,Donic,$40.00,8.8,8.1,1.8,8.2,16
+Donic Coppa JO Silver,Donic,$45.00,8.6,8.8,2.5,8.8,29
+Donic Coppa Speed,Donic,$53.95,9.3,9,2.5,9.1,16
+Donic Coppa Tagora,Donic,$37.00,8.3,8.8,2.3,8.7,10
+Donic Coppa Tenero,Donic,$44.00,7.6,8.8,4,8.5,9
+Donic Coppa X1 Gold,Donic,$49.00,9.1,8.8,1.9,9.1,24
+Donic Coppa X1 Turbo Platin,Donic,$49.00,9.5,9.2,2,9.3,53
+Donic Coppa X2 Platin Soft,Donic,$54.00,8.7,9,2.2,9.1,25
+Donic Coppa X3 Silver,Donic,$55.00,8.4,9.2,1.9,9.1,19
+Donic Desto F1,Donic,$43.00,9.4,8.6,1.9,8.9,22
+Donic Desto F1 HS,Donic,$45.00,9.4,8,2.5,8.2,5
+Donic Desto F1 Plus,Donic,$58.00,9.1,9.2,1,9.3,5
+Donic Desto F2,Donic,$44.00,8.7,8.7,2,8.9,11
+Donic Desto F3,Donic,$39.00,7.3,8.4,1.6,8.5,19
+Donic Desto F3 Big Slam,Donic,$44.95,7.7,8.4,0.7,8.9,35
+Donic Desto F4,Donic,$40.00,8.9,8.7,0.8,8.5,6
+Donic Gallardo Sound,Donic,$44.00,7.8,9.3,5,8.4,5
+Donic Gallardo Speed,Donic,$44.00,8,8.3,2.8,8.3,4
+Donic J.O. Waldner,Donic,$37.00,8.2,8.8,3.1,9.4,11
+Donic Liga,Donic,$27.00,6.3,6.6,3.8,7.8,21
+Donic Quattro A'Conda Medium,Donic,$36.00,6.4,6.5,0.7,7.6,4
+Donic Quattro A'Conda Soft,Donic,$31.00,6.7,8.7,2.4,9.2,14
+Donic Quattro Formula,Donic,$45.95,7.9,8.2,1.8,8.3,13
+Donic Slice 40,Donic,$44.00,6,8.5,1.6,8.5,13
+Donic Sonex JP,Donic,$37.00,8.5,8.8,3,9.1,4
+Donic Sonex JP Gold,Donic,$35.00,9,8.6,2.3,8.8,38
+Donic Traction MS Pro,Donic,$60.00,9.3,9.3,2.4,9.3,10
+Donic Traction MS Soft,Donic,$60.00,8.9,9,5,8.9,8
+Donic Twingo,Donic,$10.00,6.6,7.6,3.4,8.1,9
+Donic Vario,Donic,$32.00,7.7,7.3,2,8.3,12
+Donic Vario Big Slam,Donic,$80.00,7.6,8.4,0,8.8,18
+Donic Vario Soft,Donic,$31.00,7.6,7.7,1.1,7.8,7
+Donier Max Attack,Donier,$25.00,8.1,7.4,1.4,8.2,9
+Double Fish 815,Double Fish,$7.00,6.5,8.2,6.6,7.7,5
+Double Fish A One (A1),Double Fish,$14.00,7.8,7.3,2.8,8,5
+Double Fish Prasidha 830,Double Fish,,8.2,8.8,7.7,8.5,6
+Double Fish QIJI Pro - OSMOSE INVERSE,Double Fish,$29.00,9.1,9.7,8.3,9.8,4
+Double Fish Volant Phoenix,Double Fish,$22.00,9,9.2,5.8,9.2,11
+Double Fish Volant Phoenix 2,Double Fish,$30.00,8.7,9.3,3.4,9.5,9
+Dr. Neubauer ABS Anti,Dr. Neubauer,$65.00,6.4,4.7,3,8.7,7
+Dr. Neubauer Anti Special,Dr. Neubauer,$48.00,4.8,4.3,2.5,5.3,4
+Dr. Neubauer Domination,Dr. Neubauer,$51.00,8.1,9.2,5,9.1,7
+Dr. Neubauer Domination Speed 2,Dr. Neubauer,$40.00,8.7,9.3,5.3,9.3,4
+Dr. Neubauer Goliath Speed II,Dr. Neubauer,$38.00,9.4,9.6,1.2,9.6,5
+Friendship/729 40S,Friendship/729,$14.00,7.3,7.7,6.3,8,10
+Friendship/729 729,Friendship/729,$10.00,8.1,9.1,6.5,8.7,24
+Friendship/729 729 OEM,Friendship/729,$5.00,8.3,8.3,5.8,8.8,12
+Friendship/729 729 Transcend,Friendship/729,$14.00,8.3,8.9,7.5,8.5,8
+Friendship/729 729-08,Friendship/729,$25.00,8.5,9.2,7.4,8.9,29
+Friendship/729 729-08 ES,Friendship/729,$22.00,8.3,8.6,4.9,8.8,21
+Friendship/729 729-08 Pro,Friendship/729,$39.00,8.5,9.3,5.1,9.1,11
+Friendship/729 729-08 Provincial Tuned,Friendship/729,$38.00,8.7,9.1,7.7,9.1,7
+Friendship/729 729-2 Sensor,Friendship/729,$14.00,8.7,8.6,3.6,8.7,28
+Friendship/729 729-3 Transcend,Friendship/729,$14.00,8.1,9.3,6.6,9.1,7
+Friendship/729 729-5,Friendship/729,$17.00,8.8,8.7,3.5,8.8,57
+Friendship/729 804 (Anti-spin),Friendship/729,$10.00,5,3.6,0.3,7.8,23
+Friendship/729 Aurora,Friendship/729,$18.00,9.1,9.1,1.3,8.7,23
+Friendship/729 Aurora Max PRO,Friendship/729,$12.00,8.6,8.4,1.3,8.1,6
+Friendship/729 Battle 2 National Blue Sponge,Friendship/729,$45.00,9.2,9.5,9.3,9.7,9
+Friendship/729 Battle 2 Neo,Friendship/729,$32.00,8,9.2,8,10,4
+Friendship/729 Battle 2 Provincial Soft (37 Only),Friendship/729,$30.00,8.7,9.9,8.7,9.8,4
+Friendship/729 Battle 2 Taichi,Friendship/729,$39.00,8.4,8.9,7.8,8.7,4
+Friendship/729 Battle 3,Friendship/729,$39.00,8.9,9.3,8.4,9.2,28
+Friendship/729 Battle I,Friendship/729,$19.00,8.8,8.5,0.8,9,8
+Friendship/729 Battle II,Friendship/729,$26.00,8.7,9.2,8.6,9.1,54
+Friendship/729 Battle II Gold,Friendship/729,$38.00,9,9.6,8.2,9.1,9
+Friendship/729 Battle II National,Friendship/729,$65.00,8.8,9.7,8.8,9.5,6
+Friendship/729 Battle II National Special Edition,Friendship/729,$47.00,9,9.9,9,9.9,4
+Friendship/729 Battle II Provincial,Friendship/729,$34.00,8.9,9.4,8.6,9.4,47
+Friendship/729 Battle II Provincial (Battle 2 Provincial),Friendship/729,$30.00,8.6,9.3,8.7,9.1,24
+Friendship/729 Battle II Provincial Gold,Friendship/729,$26.00,9.1,9.5,8.6,9.2,16
+Friendship/729 Battle III Tiger 4,Friendship/729,$55.00,7.9,9.7,8,10,5
+Friendship/729 Battle MAX PRO,Friendship/729,$43.00,8.2,9,9,9.2,9
+Friendship/729 Bloom Arc,Friendship/729,$20.00,9,9.2,7.2,9.5,5
+Friendship/729 Bloom Power,Friendship/729,$15.00,8.7,9,8.2,8.9,26
+Friendship/729 Bloom Speed,Friendship/729,$15.00,8.7,8.7,7.8,8.7,6
+Friendship/729 Bloom Spin,Friendship/729,$15.00,7.7,8.5,5.8,8.1,4
+Friendship/729 Cream on Magic Red Sponge (MRS),Friendship/729,$14.00,7.4,8.5,5.3,8.3,9
+Friendship/729 Cream Transcend,Friendship/729,$10.00,7.9,8.2,4.9,8.4,61
+Friendship/729 Cross Blue Sponge,Friendship/729,$15.00,7.7,8.8,7.9,8.7,8
+Friendship/729 Dragon-F,Friendship/729,$15.00,8.1,8.5,5.8,8.1,8
+Friendship/729 Faster (Fenghun),Friendship/729,$14.00,8.7,8.9,7,8.7,25
+Friendship/729 Faster 3 (Fenghun 3),Friendship/729,$14.00,8.9,8.8,6.2,8.9,17
+Friendship/729 Faster ESN (Fenghun ESN),Friendship/729,$14.00,8.8,9,6.3,8.6,7
+Friendship/729 Focus 1,Friendship/729,$14.00,6.9,8.5,5.1,8.2,19
+Friendship/729 Focus 2,Friendship/729,$14.00,8.7,8.7,4.9,9,9
+Friendship/729 Focus 3,Friendship/729,$14.00,7.2,7.8,1.8,8,15
+Friendship/729 Focus 3 Plus,Friendship/729,$22.00,8.3,9.3,2,9.4,5
+Friendship/729 Focus 3 Snipe,Friendship/729,$15.00,8.6,8.3,1.5,8.8,134
+Friendship/729 Friendship Cross,Friendship/729,$14.00,7.4,7.5,4,7.2,4
+Friendship/729 FX EL Super Soft,Friendship/729,$12.00,6.6,8,5.1,7.5,43
+Friendship/729 FX Lightening (Lightning),Friendship/729,$20.00,7.4,8.2,5.3,8.1,17
+Friendship/729 General (Cross sponge),Friendship/729,$6.00,7.5,7.9,5.9,8,24
+Friendship/729 Geospin,Friendship/729,$14.00,7.1,8.1,4.3,8.3,9
+Friendship/729 GeoSpin Tacky,Friendship/729,$14.00,7.2,9.1,7.1,8.6,40
+Friendship/729 God-Favored (SST),Friendship/729,$14.00,8.7,8.7,5.8,8.2,6
+Friendship/729 Higher,Friendship/729,$25.00,8.1,8.9,6.6,8.5,44
+Friendship/729 Higher 2,Friendship/729,$14.00,8,8.7,4.6,7.6,5
+Friendship/729 Higher 3,Friendship/729,$14.00,8.1,8.7,5.5,8.6,12
+Friendship/729 Highpoint,Friendship/729,$25.00,8.9,8.6,2,8.7,8
+Friendship/729 New Cream,Friendship/729,$30.00,8.7,9.3,8,10,4
+Friendship/729 Origin,Friendship/729,$14.00,7.3,8.7,7.3,8.9,11
+Friendship/729 Phoenix II,Friendship/729,$16.00,6.4,8.3,8.6,7.9,5
+Friendship/729 Presto Max Speed,Friendship/729,$26.00,9.4,9.2,1,9.4,4
+Friendship/729 Presto Spin Max,Friendship/729,$23.00,8.6,9.2,2.4,8.9,11
+Friendship/729 RITC 2000 Tack Speed,Friendship/729,$14.00,8.3,8.8,5.9,8.8,28
+Friendship/729 Sky Wing,Friendship/729,$14.00,7.4,8.3,5.5,8.5,17
+Friendship/729 SP Transcend,Friendship/729,$14.00,7.9,8.9,7.8,8.3,22
+Friendship/729 SST Cross,Friendship/729,$10.00,7.3,7.3,5.3,7.3,9
+Friendship/729 SST Pro Team,Friendship/729,$14.00,8.6,9.2,7,8.9,4
+Friendship/729 Super FX,Friendship/729,$15.00,7.2,8.4,6.7,8.1,90
+Friendship/729 Super FX Blue Sponge,Friendship/729,$13.00,7.4,8.2,6.3,8.2,20
+Friendship/729 Super FX GuoYuehua (Blue Sponge) 729-020,Friendship/729,$19.00,8.2,8.6,5,8.8,5
+Friendship/729 Top Point,Friendship/729,$37.89,9,9.1,6,9.1,4
+Friendship/729 Xi EnTing,Friendship/729,$14.00,8,8.7,5,8.3,10
+Friendship/729 Yudo (Judo),Friendship/729,$14.00,8,8.8,6.6,8.5,6
+Gambler Aces,Gambler,$14.00,8.2,8.1,6,8.2,6
+Gambler Four Kings,Gambler,$14.00,6.7,8.1,5.8,8.1,8
+Gambler Outlaw (Lavender Sponge Tuned),Gambler,$14.00,8.1,7.8,1.3,8,8
+Gambler Outlaw (Tuned),Gambler,$14.00,8.8,8.1,1.6,8.2,40
+Gambler Reflectoid,Gambler,$14.00,5.5,8,7.3,8.5,25
+Gambler Six Shooter,Gambler,$14.00,7.2,7.3,1,7.8,7
+Gambler Six Shooter (Pre-Tuned),Gambler,$14.00,6.9,6.8,1.6,5.7,6
+Gambler Wraith (Wrath),Gambler,$14.00,8.3,8.4,6.1,8.7,9
+Gewo Codexx EL Pro 52,Gewo,$49.00,8.3,9.4,7.6,9.2,11
+Gewo Flexxon,Gewo,$58.00,9.2,9.4,2.5,9.4,25
+Gewo Flexxon FX,Gewo,$58.00,9,9.2,1.3,9.3,15
+Gewo Flexxon Soft,Gewo,$58.00,8.7,9.4,1.7,9.3,12
+Gewo Hype EL Pro 40.0,Gewo,$52.00,8.6,9.4,0.9,9.2,20
+Gewo Hype EL Pro 42.5,Gewo,$52.00,8.8,9.1,1.1,9.1,24
+Gewo Hype EL Pro 47.5,Gewo,$44.00,9.1,9,0.5,8.9,29
+Gewo Hype KR Pro 47.5,Gewo,$30.00,9.3,9.4,2.2,9.3,23
+Gewo Hype XT Pro 40.0,Gewo,$48.00,8.5,9,1.1,9.2,21
+Gewo Hype XT Pro 50.0,Gewo,$48.00,9.3,9.3,2.2,9.4,27
+Gewo Inventus XT Pro 50.0,Gewo,$59.99,9.1,8.9,3,9.1,4
+Gewo Mega Flex Control,Gewo,$35.00,7.3,8.6,0.4,9.1,13
+Gewo NanoFLEX FT40,Gewo,$60.00,8.6,9.4,1.1,9.4,23
+Gewo NanoFLEX FT45,Gewo,$30.00,9.1,9.4,0.7,9.4,15
+Gewo NanoFlex FT48,Gewo,$34.00,9.4,9.4,1,9.4,26
+Gewo Neoflexx EFT 40,Gewo,$36.00,6.9,8.5,1.7,9.3,14
+Gewo Neoflexx EFT 45,Gewo,$44.00,7.2,8.7,3.2,9.1,12
+Gewo Neoflexx EFT 48,Gewo,$32.00,8,9.4,1.7,9.3,20
+Gewo Nexxus EL Pro 38,Gewo,$53.00,8.5,9.2,1.1,9.2,17
+Gewo Nexxus EL Pro 43,Gewo,$45.00,9,9.3,1.2,9.3,25
+Gewo Nexxus EL Pro 45 Superselect,Gewo,$65.00,9.1,9.3,1.4,9.3,8
+Gewo Nexxus EL Pro 48,Gewo,$45.00,9.2,9,1.5,8.9,28
+Gewo Nexxus EL Pro 48 Superselect,Gewo,$65.00,9.4,9.6,2.4,9.5,6
+Gewo Nexxus EL Pro 50 Hard,Gewo,$49.00,9.3,9.2,0.3,9.2,13
+Gewo Nexxus EL Pro 53 Hard,Gewo,$60.00,9.4,9.1,0.9,9.2,16
+Gewo Nexxus EL Pro 53 Superselect,Gewo,$65.00,9.5,9.3,1.2,9.2,6
+Gewo Nexxus XT Pro 48,Gewo,$55.00,9.4,9.4,1.5,9.3,18
+Gewo Nexxus XT Pro 50 Hard,Gewo,$60.00,9.5,9,1.3,9.1,15
+Gewo Proton Neo 325,Gewo,$42.00,7.8,9.1,0.5,9.4,17
+Gewo Proton Neo 375,Gewo,$42.00,8.6,9.1,0.5,9.2,12
+Gewo Proton Neo 450,Gewo,$34.00,9,9.3,0,9.4,14
+Gewo Proton Neo 475,Gewo,$43.00,9.4,9.4,0.2,9.3,11
+Gewo Target airTEC L,Gewo,$24.00,7.5,8.8,2,8.9,5
+Gewo Thunderball²,Gewo,$15.00,6.6,8.5,5.5,7.9,6
+Giant Dragon 8088,Giant Dragon,$23.30,7.8,8.7,5,8.9,4
+Giant Dragon Allround,Giant Dragon,$18.00,7.6,8.7,5,9.1,6
+Giant Dragon Karate Hard,Giant Dragon,$18.00,9.1,8.7,2.1,9,7
+Giant Dragon Karate Soft,Giant Dragon,$18.00,8.5,8.6,4.5,8.7,8
+Giant Dragon Storm Soft,Giant Dragon,$19.00,8.5,9.5,7,9.4,4
+Giant Dragon Submarine,Giant Dragon,$15.99,6.4,8.2,5.5,8.5,18
+Giant Dragon SuperSpin G3 Hard,Giant Dragon,$28.00,9,8.9,4,8.6,6
+Giant Dragon SuperSpin G3 Soft,Giant Dragon,$24.99,8.4,9.3,7.5,9,12
+Giant Dragon Superveloce V12 FX,Giant Dragon,$15.00,9.2,9,1.6,9,9
+Giant Dragon TaiChi Soft,Giant Dragon,$18.00,7.7,8.1,3.7,7.6,6
+Giant Dragon TopENERGY Hard,Giant Dragon,$22.00,9.4,9.4,8.1,8.8,7
+Giant Dragon TopENERGY Soft,Giant Dragon,$25.00,7.8,9.4,4.8,8.4,13
+GKI Chelonz Hybridz,GKI,$36.00,7.9,7.4,4.4,8.2,8
+GKI Euro Chelonz,GKI,$30.00,7.6,6.9,0.4,6.8,7
+GKI Euro Jumbo,GKI,$27.00,7.7,7.7,5,8.6,5
+GKI Euro Spintech,GKI,$17.00,8,8.4,2.5,8.1,7
+GKI Euro-XX,GKI,$16.00,7.6,7.4,2.9,8.2,17
+Globe 999,Globe,$30.00,7.9,9,6.1,8.4,37
+Globe 999 National,Globe,$15.00,7.8,9.2,6.2,9.3,34
+Globe 999T,Globe,$10.00,7.8,8.6,7.3,8.1,10
+Globe Taiphoon Gold,Globe,$35.00,8.5,9.1,2.4,8.7,9
+Guo Qiu Future Fighter,Guo Qiu,$10.00,8.1,8.3,6.8,7.4,9
+Haifu Blue Whale,Haifu,$22.00,9.2,8.8,4.3,8.5,5
+Haifu Blue Whale II (2) (Tuned),Haifu,$39.00,8.5,7.9,3.5,8.4,11
+Haifu Blue Whale II (2) (Untuned),Haifu,$23.00,8.2,9,8,9.1,4
+Haifu Blue Whale II (2) National (Tuned),Haifu,$40.00,8.1,8.6,5.8,8.5,4
+Haifu Blue Whale II (2) Provincial (Tuned),Haifu,$27.00,9.1,9.2,6.3,9,8
+Haifu Blue Whale III (3) (Tuned),Haifu,$40.00,7.5,8.8,6.2,8.5,20
+Haifu Shark II Soft,Haifu,$45.00,9.2,9,2.4,9.1,6
+Haifu Shark III (Red Sponge),Haifu,$60.00,9.5,9,2.3,9.1,4
+Haifu Whale III (Purple Sponge) Factory Tuned,Haifu,$50.00,8.1,8.1,8.4,7.8,5
+Haifu White Shark,Haifu,$20.90,8.7,8.1,2,7.7,5
+Haifu White Shark II (2) (Tuned),Haifu,$26.00,8.7,8.1,2.2,9.4,13
+Imperial Super Strike,Imperial,$30.00,6.3,9,2.3,8.8,7
+Imperial Swift,Imperial,$30.00,8.3,8.4,1,8.3,4
+JOOLA 4 You,JOOLA,$20.00,6.7,7.2,0.4,8.5,11
+JOOLA 4-All,JOOLA,$19.95,6.1,6.3,0.6,8.6,9
+JOOLA Air! ROSnet,JOOLA,$25.00,8.9,8,2,8.5,10
+JOOLA Amy Control (Anti-spin),JOOLA,$55.00,6,1.7,0,6,6
+JOOLA Brave,JOOLA,$50.00,8.2,8.8,4.9,8.2,7
+JOOLA Drum,JOOLA,$33.00,8.8,9.4,7.6,9.2,7
+JOOLA Dynaryz ACC,JOOLA,$60.00,9.2,9.1,2.1,9.1,30
+JOOLA Dynaryz AGR,JOOLA,$64.95,9.3,9.4,1.6,9.4,26
+JOOLA Dynaryz CMD,JOOLA,$59.00,8.7,8.8,4,8.7,7
+JOOLA Dynaryz Inferno,JOOLA,$70.00,9.3,8.9,0.8,9.2,5
+JOOLA Dynaryz ZGR,JOOLA,$59.00,8.9,9.5,6.5,9.3,18
+JOOLA Dynaryz ZGX,JOOLA,$70.00,9.4,9.6,2.8,8.9,10
+JOOLA Energy Green Power,JOOLA,$54.00,9,8.5,1.5,9,16
+JOOLA Energy Green Power X-Soft,JOOLA,$44.00,8.1,8.4,2,8.6,8
+JOOLA Energy X-tra (Green Power),JOOLA,$57.00,8.3,8.5,1.3,9,41
+JOOLA Express One,JOOLA,$55.00,9.4,8.8,2.2,9.2,41
+JOOLA Express Two,JOOLA,$65.00,8.6,9,2.2,9,23
+JOOLA Express X-plode,JOOLA,$54.00,9.2,8.8,4.5,9,14
+JOOLA Express X-Soft,JOOLA,$52.00,7.7,8.3,0.9,7.9,7
+JOOLA Golden Tango,JOOLA,$50.00,8.5,9,5.6,8.7,5
+JOOLA Golden Tango PS,JOOLA,$45.00,8.8,9.4,5.8,9.2,11
+JOOLA Mambo,JOOLA,$37.00,8.1,8,2.4,8.1,14
+JOOLA Mambo C,JOOLA,$34.95,9,8.4,2.3,9,8
+JOOLA Mambo GP,JOOLA,$48.00,8.7,7.8,0.8,8.3,8
+JOOLA Mambo H,JOOLA,$38.00,8.1,8.9,3.9,8.9,25
+JOOLA Maxxx 400,JOOLA,$59.00,9.2,9.3,3.3,9.2,9
+JOOLA Maxxx 450,JOOLA,$60.00,9.1,8.9,0.5,8.9,13
+JOOLA Maxxx 500,JOOLA,$41.00,9.4,9.3,2.4,9.4,17
+JOOLA MAXXX-P,JOOLA,$46.00,9.1,9.3,2.1,9.4,29
+JOOLA Phenix (Phoenix),JOOLA,$45.00,9.2,8.3,2.5,9.1,14
+JOOLA Rhyzer 43,JOOLA,$58.00,8.9,9.1,0.8,9,6
+JOOLA Rhyzer 48,JOOLA,$58.00,9.1,9,0.5,8.8,14
+JOOLA Rhyzer Pro 45,JOOLA,$60.00,9,9.2,1.6,9.2,7
+JOOLA Rhyzer Pro 50,JOOLA,$58.00,9.2,9.1,0.3,9.1,12
+JOOLA Rhyzm,JOOLA,$40.00,9.1,9.1,2.3,9.2,36
+JOOLA Rhyzm 375,JOOLA,$64.00,8.9,9.3,5,8.8,5
+JOOLA Rhyzm 425,JOOLA,$65.00,8.8,9.1,2.5,9.1,9
+JOOLA Rhyzm Tech,JOOLA,$65.00,9,9.2,3.1,8.7,9
+JOOLA Rhyzm-P,JOOLA,$42.00,9.2,9.4,2.3,9.4,48
+JOOLA Samba,JOOLA,$38.00,7.7,8.7,2.4,8.5,11
+JOOLA Samba NTEC,JOOLA,$43.00,7.8,7.1,1.5,7.4,7
+JOOLA Samba Tech,JOOLA,$55.00,9.3,9.1,2,9.2,8
+JOOLA Samba+,JOOLA,$54.95,7.7,8.3,1.7,8.1,17
+JOOLA Smart,JOOLA,$30.00,6.7,6.7,4.3,6.9,5
+JOOLA Tango Extrem,JOOLA,$42.00,8.7,8.2,4.1,8.8,10
+JOOLA Timeless (Anti-spin),JOOLA,$29.00,4.1,2.9,0,8,6
+JOOLA Topspin C,JOOLA,$27.00,6.4,9.2,6.8,8.4,10
+JOOLA Tronix ACC,JOOLA,$46.00,9,9.4,0.4,9.5,11
+JOOLA Tronix CMD,JOOLA,$49.00,8.7,9.1,1.8,9.3,6
+JOOLA Upp,JOOLA,$29.00,7,7.4,5.2,7.2,5
+JOOLA Vizon,JOOLA,$15.00,7.3,7.8,3.5,7.3,6
+JOOLA X-Plode,JOOLA,$54.95,8.8,8.3,3.8,8.8,8
+JOOLA X-Plode Sensitive,JOOLA,$60.00,8.5,8.7,2.2,9.1,28
+JOOLA Zack,JOOLA,$45.00,7.9,8.2,2.2,8.5,6
+Juic 999 Elite,Juic,$35.00,7.8,9.1,6.6,8.4,9
+Juic 999 Elite Defense,Juic,$36.00,5.8,9.4,5.5,9.1,6
+Juic 999 Elite Nano,Juic,$32.00,8,9.5,3.5,7.7,4
+Juic 999 Elite Ultima,Juic,$33.00,8.4,9.1,5.9,8.4,7
+Juic Couga,Juic,$33.00,9.3,7.1,0.5,8,4
+Juic Nanocannon,Juic,$35.00,8.8,8.3,4.8,8.2,6
+Juic Neo Anti (Anti-spin),Juic,$32.00,4.5,3.5,0.4,9,12
+Juic Shenron,Juic,$40.00,9,9.1,3.8,8.2,5
+Juic SpinSpiel,Juic,$31.00,7.9,9.3,8,8.5,6
+Juic Varites,Juic,$40.00,8.7,7.8,1.8,8.5,6
+Killerspin Fortissimo,Killerspin,$52.00,9.5,8.9,2.6,9.3,30
+Killerspin Nitrx 4z,Killerspin,$22.95,8.4,8,3,8.2,9
+Kokutaku 007,Kokutaku,$10.00,7.8,9,7.6,8.7,7
+Kokutaku 007 Pro. Selected,Kokutaku,$15.00,8.1,9,7,9.2,7
+Kokutaku 868,Kokutaku,$12.00,8.2,8.3,5.9,8.4,14
+Kokutaku 868 Training Rubber,Kokutaku,$6.00,7.8,8.5,5.4,8.9,10
+Kokutaku Blutenkirsche 868 Tokyo,Kokutaku,$12.00,8.3,8.2,2.3,8.4,16
+Kokutaku Blutenkirsche 868 Tokyo (Hercules Black Sponge Pre Tune),Kokutaku,$12.00,8.5,8.8,0.5,9,5
+Kokutaku Blutenkirsche 868 Tokyo Super Tacky (yellow Pack),Kokutaku,$13.00,6,6.2,8.5,7.3,4
+Kokutaku BLutenkirsche 868 Tokyo Super Tacky Japanese,Kokutaku,$10.00,7.5,8.8,7.6,8.3,10
+Kokutaku Explosion Blutenkirsche 868,Kokutaku,$14.00,8,9,7.4,8,8
+Kokutaku Tokyo 730,Kokutaku,$6.00,9.1,9,4.3,9.2,5
+Kokutaku Tokyo 868,Kokutaku,$10.00,8.2,8.9,7.3,8.3,9
+Kokutaku Tuple 007 Non-Tacky,Kokutaku,$20.00,8.8,8.6,1.2,8.7,6
+Kokutaku Tuple 007 Tacky,Kokutaku,$20.00,8.9,8.5,6.3,8.5,5
+Loki Arthur Asia,Loki,$20.00,8.4,9,6.8,8.9,10
+Loki Arthur China,Loki,$18.00,8.5,9.2,7.6,9.2,9
+Loki Arthur Europe,Loki,$18.00,8.7,9.1,4.6,8.8,7
+Loki GTX Pro,Loki,$18.00,8.5,9,5.9,9,16
+Loki N80,Loki,$19.00,8.9,9,6.9,9.1,9
+Loki RXTON 3,Loki,$9.00,8.3,8.7,5.7,8.7,12
+Loki RXTON 3 Pink Or Blue,Loki,$12.00,8.4,8.3,3.8,8,5
+Loki RXTON 3 Pro,Loki,$10.00,8.7,9,5.3,9.2,8
+Loki RXTON 5,Loki,$25.00,8.6,8.7,5.3,8.5,30
+Loki RXTON 5 Pro,Loki,$10.00,7.8,8.4,5,8.3,6
+Loki RXTON 7,Loki,$25.00,7.2,8.1,5.6,8.3,5
+Loki RXTON 9,Loki,$17.00,7.4,8.9,6.2,8.3,5
+Loki RXTON I,Loki,$6.00,7.6,8.1,3.8,8.2,19
+Loki T3,Loki,$8.00,8.5,7.4,1.7,8.3,7
+Nittaku Alhelg,Nittaku,$45.00,9.1,9.2,2.3,8.9,19
+Nittaku Alhelg SR,Nittaku,$60.00,9.1,9.4,4.3,9.2,16
+Nittaku Best Anti (Anti-spin),Nittaku,$24.00,4.1,2.6,0.2,8.3,13
+Nittaku DHS Hurricane 3,Nittaku,$50.00,8.3,9.3,8.2,8.9,11
+Nittaku Factive,Nittaku,$40.00,8.5,8.6,1.6,9,26
+Nittaku Fastarc C-1,Nittaku,$45.00,9,9.1,2,9.2,60
+Nittaku Fastarc G-1,Nittaku,$41.00,9,9.3,2.3,9.4,187
+Nittaku Fastarc P-1,Nittaku,$49.00,9.3,9.3,2.9,9.3,32
+Nittaku Fastarc S-1,Nittaku,$42.00,9.1,8.9,1.9,9.3,68
+Nittaku Flyatt Hard,Nittaku,$25.00,9,8.8,2.6,9,23
+Nittaku Flyatt Soft,Nittaku,$46.00,8.5,8.2,0.9,8.5,11
+Nittaku Flyatt Spin,Nittaku,$25.00,8.9,9.2,2.1,9.3,10
+Nittaku Galze,Nittaku,$55.00,8.8,9.1,1.5,9.3,11
+Nittaku Genextion,Nittaku,$64.00,9.6,9.6,2.2,9.4,5
+Nittaku Goriki Kaisoku,Nittaku,$38.00,9.4,9.1,1.6,9.3,13
+Nittaku Hammond,Nittaku,$38.00,9.1,8.5,1,8.8,14
+Nittaku Hammond CR,Nittaku,$35.00,8.9,8.8,2.2,9.2,19
+Nittaku Hammond Power,Nittaku,$43.00,9.2,9,2.1,9.2,9
+Nittaku Hammond Pro Alpha,Nittaku,$38.00,9,7.4,2.1,8.1,14
+Nittaku Hammond Pro Beta,Nittaku,$49.00,8.9,8.7,1.9,9.2,45
+Nittaku Hammond X,Nittaku,$43.00,8.9,8.7,3.1,8.8,10
+Nittaku Hammond Z2,Nittaku,$59.00,9.3,9.3,2.1,9.5,79
+Nittaku Hurricane 2 (H2) Pro,Nittaku,$40.00,8.3,9.4,7.4,8.8,7
+Nittaku Hurricane 3 (H3),Nittaku,$35.00,8.7,9.2,6.3,8.9,17
+Nittaku Hurricane 3 (H3) Pro,Nittaku,,8.1,9.1,7.5,8.6,8
+Nittaku Hurricane 3 NEO,Nittaku,$40.00,8.2,9.3,7.8,9,11
+Nittaku Hurricane Pro III Turbo Blue,Nittaku,$45.00,8.8,9.5,8.6,9.4,30
+Nittaku Hurricane Pro III Turbo Orange,Nittaku,$55.00,8.6,9.3,8.5,9.2,39
+Nittaku J.O. Waldner,Nittaku,$29.00,8.3,8.7,3.5,9.2,6
+Nittaku Magic Carbon,Nittaku,$25.00,7.8,8,2.8,8.6,14
+Nittaku Micro,Nittaku,$35.00,8.2,8,3,7.7,4
+Nittaku Moristo 2000,Nittaku,$35.00,9.3,8.8,1,8.8,4
+Nittaku Moristo DF,Nittaku,$27.00,8.4,8.4,4.4,8.5,7
+Nittaku Moristo RS Soft,Nittaku,$44.00,9.1,8.2,3.6,9.1,6
+Nittaku Narucross EX Hard,Nittaku,$50.00,9.2,8.9,3.3,9.3,11
+Nittaku Narucross EX Soft,Nittaku,$39.00,8.8,9.3,2.5,9.1,12
+Nittaku Narucross GS Soft,Nittaku,$55.00,8.9,9.1,5.8,9.1,9
+Nittaku Narucross GS Super-Soft,Nittaku,$53.00,8,9.1,3,8.9,9
+Nittaku Nodias,Nittaku,$38.00,7.5,8.4,3,7.9,6
+Nittaku Refoma,Nittaku,$44.00,8.2,8.3,1.2,8.5,6
+Nittaku Renanos Bright Soft,Nittaku,$48.00,8.5,8.4,3.3,9.1,8
+Nittaku Renanos Hold,Nittaku,$40.00,8.9,9.4,4.1,9.4,39
+Nittaku Renanos Soft,Nittaku,$34.00,8.6,9,2,9.2,6
+Nittaku Revspin,Nittaku,,8.4,9.2,2.6,9.3,8
+Nittaku Sieger PK50,Nittaku,$52.00,8.6,9.2,6.1,9.4,54
+Nittaku Skyline TG3,Nittaku,,9.3,9.5,8.3,9.3,4
+Nittaku Soulspin Project 12 (P12),Nittaku,$60.00,8.7,9.2,2,9,4
+Nittaku Zalt,Nittaku,$30.00,8.6,8.6,1.7,8.5,6
+Palio Aeolus,Palio,$53.00,9.3,9.2,4.4,9.4,10
+Palio AK 47 Blue,Palio,$13.00,8.9,8.6,0.7,8.9,54
+Palio AK 47 Red,Palio,$18.00,9.1,8.4,0.6,8.7,71
+Palio AK 47 Yellow Sponge,Palio,$12.00,8.6,8.4,0.7,8.7,30
+Palio AK47 Biotech,Palio,$14.00,7,9.5,7,9.6,4
+Palio Amigo,Palio,$10.00,7.2,7.3,4.4,8,5
+Palio Blitz,Palio,$55.00,9.1,9,2.1,9.1,31
+Palio CJ8000,Palio,$15.00,7,8.6,8,8.2,5
+Palio CJ8000 2-Side Loop,Palio,$8.00,7.2,7.9,3.1,8.3,10
+Palio CJ8000 36-38°,Palio,$11.00,8,8.3,4.1,8.5,13
+Palio CJ8000 38-41°,Palio,$16.00,8.1,8.1,5.8,8.3,10
+Palio CJ8000 Allround,Palio,$16.00,7.6,7.8,9.3,6.7,4
+Palio CJ8000 Biotech 36-38°,Palio,$16.00,7.6,8.5,4.6,8.8,29
+Palio CJ8000 Biotech 36-38° Japanese Sponge,Palio,$12.00,7.6,8.7,2.6,8.8,14
+Palio CJ8000 Biotech 39-41°,Palio,$8.50,7.1,8.6,2.5,8.7,16
+Palio CJ8000 Biotech 40-42°,Palio,$16.00,8.3,8.9,2.4,8.9,12
+Palio CJ8000 Biotech 42-44°,Palio,$10.00,8.1,9.3,5,8.8,7
+Palio CJ8000 Biotech 42-44° Japanese Sponge,Palio,$11.50,7.7,8.9,2.4,9.1,13
+Palio CJ8000 Extreme Spin,Palio,$16.00,8.3,9,6.4,8.8,13
+Palio CJ8000 Light and Fast,Palio,$7.00,8,8.7,4.3,8,5
+Palio CJ8000 Provincial,Palio,$30.00,8.7,9.1,5.6,9.5,5
+Palio Drunken Dragon,Palio,$8.00,8,7.5,6.5,8.5,5
+Palio Emperor Dragon,Palio,$9.00,7.8,9.1,6,9,9
+Palio Hadou 40+,Palio,$19.00,8.7,9,3.7,9,35
+Palio Hadou Biotech,Palio,$10.00,8.8,9.2,7.2,8.4,13
+Palio Hidden Dragon,Palio,$14.00,8,9,2.6,8.8,9
+Palio Hidden Dragon Biotech,Palio,$12.00,8.3,8.8,0.6,9,13
+Palio Hidden Dragon Biotech Upgrade,Palio,$12.00,8.2,9,0,8.7,5
+Palio HK1997 Biotech,Palio,$27.00,8.3,8.7,2.1,8.9,19
+Palio HK1997 Gold,Palio,$17.00,8.8,8.9,3.2,8.8,31
+Palio Macro Era,Palio,$25.00,9.3,8.6,1.7,9.2,36
+Palio Macro Pro,Palio,$30.00,8.3,8.2,2.6,8.2,8
+Palio The Way 40+,Palio,$15.00,8.6,9.4,2.8,9.4,5
+Palio Thors,Palio,$30.00,8.7,9.3,6.4,9,45
+Palio Wildish Dragon,Palio,$14.00,8.9,9,6.5,8.2,6
+Reactor Ckylin Blue Sponge,Reactor,$15.00,8.2,7.7,4.8,8.3,6
+Reactor Ckylin New (Blue Sponge),Reactor,$11.00,8,8,5,8.3,10
+Reactor Corbor,Reactor,$5.00,7,8.7,7,8.4,41
+Reactor Corbor Pro,Reactor,$7.00,6,7.3,4.3,6.9,4
+Reactor Corbor T,Reactor,$4.00,7.4,8,3.5,7.9,4
+Reactor Novar,Reactor,$10.00,7.1,9.2,7,8.8,4
+Reactor Thunder,Reactor,$12.00,8.9,8.9,6.6,9,23
+Reactor Thunder Black Sponge,Reactor,$13.00,8.3,9.2,4.8,8.5,5
+Reactor Tornado,Reactor,$15.00,8,9.2,5.8,8.4,6
+Reactor Tornado V5,Reactor,$6.00,8.1,8.7,4.5,8.7,31
+Sanwei AU Golden Blue/Pink,Sanwei,$12.00,8.9,9.2,2,9.2,6
+Sanwei Gear Hyper,Sanwei,$30.00,8.6,8.4,1.9,8.5,10
+Sanwei Gear Hyper Hard,Sanwei,$45.00,8.5,9.4,2.5,8.8,6
+Sanwei Gears,Sanwei,$16.00,7.7,8.8,5.2,8.6,14
+Sanwei T88,Sanwei,$14.00,8.5,8.8,5.8,7.9,4
+Sanwei T88-I,Sanwei,$20.00,8.1,8.4,4.5,8.4,39
+Sanwei T88-II,Sanwei,$3.00,7.4,8,7.7,8.3,5
+Sanwei T88-III,Sanwei,$8.00,7.9,8.3,4.2,8.1,16
+Sanwei T88-III 2,Sanwei,$22.00,7.7,8.1,4,7.9,8
+Sanwei Taiji Plus,Sanwei,$18.00,7.4,7.9,5.6,8.7,6
+Sanwei Target,Sanwei,$12.00,8.6,8.3,6.3,8.9,4
+Sanwei Target 3 National Soft (Japanese Sponge),Sanwei,$32.00,8.3,8.9,5,8.5,4
+Sanwei Target 90,Sanwei,$20.00,8.2,8.7,3.8,8.8,5
+Sanwei Target Europe 40+,Sanwei,$31.00,8.3,8.6,1.5,8.3,5
+Sanwei Target National,Sanwei,$20.00,8.6,9.2,8,8.9,37
+Sanwei Target National (New),Sanwei,$40.00,8.8,9.3,8.6,9.3,14
+Sanwei Target National Player Edition,Sanwei,$40.00,8,9.3,7,8.7,4
+Sanwei Target Pro 3 (Nano Penetration),Sanwei,$13.00,8.1,8.6,8.2,7.5,5
+Sanwei Target Pro Blue,Sanwei,$25.00,8.4,8.5,8.5,8.6,4
+Sanwei Ultraspin T88,Sanwei,$15.00,8,8,2.9,8,17
+Sauer & Troger Secret Flow Chop,Sauer & Tröger,$32.00,7.3,9.1,5.9,8.5,10
+Sauer & Troger Super Stop,Sauer & Tröger,$35.00,4.3,1.5,0,8.5,4
+SpinLord Marder,SpinLord,$20.00,6.2,8,3,8.5,17
+SpinLord Marder II,SpinLord,$25.00,7.3,8.3,3.5,8.4,19
+SpinLord Marder III,SpinLord,$30.00,7.9,8.4,3.5,8.9,4
+SpinLord Tiger,SpinLord,$25.00,8,8,2.3,8.9,10
+Stiga Airoc Astro M,Stiga,$60.00,9,8.6,3.1,8.6,12
+Stiga Airoc Astro S,Stiga,$55.00,8.9,9,4.2,9,19
+Stiga Airoc M,Stiga,$37.00,8.8,9,2.6,8.9,19
+Stiga Airoc S,Stiga,$54.00,8.5,9,4.4,9.1,28
+Stiga Almana,Stiga,$32.00,9.1,8.3,2.2,9.1,17
+Stiga Almana Sound,Stiga,$32.00,9.1,8.5,2.1,8.4,8
+Stiga Almana Sound SynergyTech,Stiga,$39.00,9.5,8.7,3.3,9,17
+Stiga Boost TC,Stiga,$50.00,8.7,8.4,1.9,8.7,41
+Stiga Boost TP,Stiga,$58.00,8.9,8.8,2.7,8.9,14
+Stiga Boost TS,Stiga,$50.00,8.8,8.9,2.4,8.9,52
+Stiga Boost TX,Stiga,$55.00,9.3,9,2,9.3,47
+Stiga Calibra LT,Stiga,$53.00,9.3,9.1,4.5,9.2,76
+Stiga Calibra LT Plus,Stiga,$28.00,9.4,9.1,3.3,9.2,34
+Stiga Calibra LT Sound,Stiga,$42.00,9.1,8.7,2,8.7,64
+Stiga Calibra LT Spin,Stiga,$40.00,9.1,9.1,2.4,9.2,44
+Stiga Calibra Tour H,Stiga,$49.00,9.2,8.1,0.6,8.2,8
+Stiga Calibra Tour M,Stiga,$50.00,9.2,8.6,0.5,8.9,15
+Stiga Calibra Tour S,Stiga,$55.00,8.7,8.3,0.4,8.3,13
+Stiga Carbo,Stiga,$18.00,8.4,7.9,3.5,8.3,8
+Stiga Carbo MC,Stiga,$33.00,8.2,8.7,5.5,9.1,6
+Stiga Carbo Sound,Stiga,$36.00,9.2,8.6,2.1,9,22
+Stiga China Extreme,Stiga,$29.00,7,9.2,8,7.4,13
+Stiga Chop & Drive,Stiga,$25.00,6.3,8.9,6.1,8.4,19
+Stiga Cobra 2000,Stiga,$25.00,6.7,7.3,1.8,7.2,14
+Stiga DNA Dragon Grip,Stiga,$60.00,8.4,8.9,5.4,7.9,9
+Stiga DNA Dragon Power 55,Stiga,$69.00,9.5,9.7,2.8,9.7,4
+Stiga DNA Platinum H,Stiga,$65.00,9.3,8.3,1,9.1,4
+Stiga DNA Platinum M,Stiga,$65.00,8.9,8.8,1.1,8.6,11
+Stiga DNA Platinum XH,Stiga,$65.00,9.5,8.7,0,9.3,7
+Stiga DNA Pro H,Stiga,$55.00,8.8,8.6,1.9,8.4,13
+Stiga DNA Pro M,Stiga,$50.00,8.8,9,2.1,8.9,23
+Stiga DNA Pro S,Stiga,$50.00,8.5,8.7,2.4,8.6,10
+Stiga Drive,Stiga,,6.2,6.3,4.7,7.1,10
+Stiga Energy Absorber (Anti-spin),Stiga,$28.00,6,2.9,2,8,6
+Stiga Evo,Stiga,$25.00,8,7.6,2,8.1,17
+Stiga Genesis II M,Stiga,$46.00,8.3,8.9,7.4,8.3,9
+Stiga Genesis M,Stiga,$30.00,8.8,8.9,4.6,8.7,23
+Stiga Genesis S,Stiga,$45.00,8.5,8.9,4.3,8.7,19
+Stiga Innova,Stiga,$31.00,7.9,8.2,1.8,8.2,7
+Stiga Innova Premium,Stiga,$34.00,7,6.3,2.3,7.5,4
+Stiga Innova Ultra Light,Stiga,$30.00,8.2,8.2,1.5,8.3,21
+Stiga Innova Ultra Light SynergyTech,Stiga,$35.00,7.9,7.9,2.6,8.2,24
+Stiga Magna,Stiga,$37.00,8.4,8.7,4,8.6,15
+Stiga Magna TC II (2),Stiga,$40.00,9,8.5,2.8,8.9,21
+Stiga Magna TS II (2),Stiga,$40.00,8.2,8.5,1.3,8.6,7
+Stiga Magna TX,Stiga,$55.00,9.1,9.3,2.9,9.3,16
+Stiga Mantra H,Stiga,$29.00,9.4,9.1,2,9.2,20
+Stiga Mantra M,Stiga,$47.00,9.1,9,1.6,9.1,32
+Stiga Mantra PRO M,Stiga,$50.00,8.5,8.4,1.6,8.2,6
+Stiga Mantra S,Stiga,$58.00,8.7,9,3.3,9,10
+Stiga Mantra Sound,Stiga,$45.00,8.6,9.2,2,9.2,4
+Stiga Mendo,Stiga,$30.00,7.4,7.7,1.8,8.2,12
+Stiga Mendo Energy,Stiga,$28.00,7.7,7.9,4.4,8.2,12
+Stiga Mendo MP,Stiga,$33.00,8.4,8,0.9,8.4,13
+Stiga Neos,Stiga,$24.00,8.4,7.7,4.1,7.7,8
+Stiga Neos Sound,Stiga,$37.00,8.4,7.2,2.7,7.4,16
+Stiga Neos Sound SynergyTech,Stiga,$45.00,8.3,8.6,1.4,8.7,11
+Stiga Neos SynergyTech,Stiga,$50.00,8,8.3,5,7.8,7
+Stiga Neos Tacky,Stiga,$37.00,7.6,9.1,7.5,8.9,33
+Stiga Optimum MP,Stiga,$38.00,8.6,8.2,2.4,8.4,10
+Stiga Power LT,Stiga,$30.00,9,8.9,1.7,9,13
+Tibhar 1Q,Tibhar,$40.00,8.7,8.9,3.2,9.2,56
+Tibhar 1Q XD,Tibhar,$55.00,9.4,9.1,3.5,9.4,22
+Tibhar 5Q,Tibhar,$41.00,8.8,9.3,2.7,9.4,27
+Tibhar 5Q Sound,Tibhar,$45.00,8.3,9.1,1.6,9.2,21
+Tibhar 5Q Update,Tibhar,$58.00,9.1,9.1,2.4,9.4,10
+Tibhar 5Q VIP,Tibhar,$42.00,8.6,9.3,1.8,9.2,13
+Tibhar Aurus,Tibhar,$45.00,8.9,9,2.2,9.2,51
+Tibhar Aurus Prime,Tibhar,$49.00,9.4,9.3,2.2,9.3,37
+Tibhar Aurus Select,Tibhar,$45.00,8.8,8.9,2.3,8.8,14
+Tibhar Aurus Soft,Tibhar,$45.00,8.6,9.1,2.4,8.9,43
+Tibhar Aurus Sound,Tibhar,$45.00,8.5,9,2.2,9,40
+Tibhar Aurus TC-1,Tibhar,$28.00,8.8,9.5,2,9.4,7
+Tibhar Dang,Tibhar,$31.00,6.4,7.5,7.7,6.6,7
+Tibhar Evolution EL-D,Tibhar,$50.00,9.3,9,1.6,8.9,5
+Tibhar Evolution EL-P,Tibhar,$40.00,9.1,9.2,2.2,9.3,72
+Tibhar Evolution EL-S,Tibhar,$40.00,8.7,9,2.3,8.9,51
+Tibhar Evolution FX-P,Tibhar,$60.00,8.6,9.1,2,9.1,52
+Tibhar Evolution FX-S,Tibhar,$60.00,8.7,9.2,1.3,9.2,23
+Tibhar Evolution MX-D,Tibhar,$65.00,9.3,9.1,1.8,9.2,28
+Tibhar Evolution MX-P,Tibhar,$60.00,9.5,9.3,2.3,9.4,137
+Tibhar Evolution MX-P 50,Tibhar,$65.00,9.3,9.4,2.3,9.4,31
+Tibhar Evolution MX-S,Tibhar,$59.00,9.2,9.5,2.4,9.4,107
+Tibhar Genius,Tibhar,$47.00,8.9,9.3,2.8,9.3,55
+Tibhar Genius Sound,Tibhar,$46.00,8.7,9.5,2.7,9.4,59
+Tibhar Genius+ Optimum,Tibhar,$50.00,9,9.3,2.7,9.1,31
+Tibhar Genius+ Optimum Sound,Tibhar,$57.00,8.8,8.8,1.3,8.5,18
+Tibhar Grip-S,Tibhar,$45.00,8.6,9.2,6.8,9.4,27
+Tibhar Grip-S Europe,Tibhar,$45.00,8.6,9.3,5.9,9.2,35
+Tibhar Grip-S Europe Soft,Tibhar,$45.00,8.4,9.3,5.1,9.3,17
+Tibhar Hybrid K1,Tibhar,$56.00,8.6,9.4,8.2,9.2,5
+Tibhar Hybrid K1 European Version,Tibhar,$41.00,9.1,9.5,5.5,9.5,18
+Tibhar Hybrid K2,Tibhar,$45.00,8.6,9.3,8.1,9.1,7
+Tibhar Hybrid K3,Tibhar,$49.00,8.8,9.2,4.6,9.3,36
+Tibhar Hybrid MK,Tibhar,$49.00,8.9,9.1,2.5,9.5,31
+Tibhar Hybrid MK FX,Tibhar,$50.00,8.6,9.1,1.6,9.2,5
+Tibhar Hybrid MK Pro,Tibhar,$67.00,9.3,9.5,2.2,9.3,6
+Tibhar K3,Tibhar,,8.4,9,6.5,8.8,5
+Tibhar Legend Destroyer,Tibhar,$14.00,7.5,8.4,7.2,8.8,17
+Tibhar Nianmor,Tibhar,$80.00,9.3,9.2,2.8,9.4,47
+Tibhar Nimbus,Tibhar,$55.00,9.1,8.6,3.4,8.6,26
+Tibhar Nimbus Soft,Tibhar,$45.00,8.3,8.6,1.6,8.7,17
+Tibhar Nimbus Sound,Tibhar,$54.00,8.6,8.2,0.8,8.7,20
+Tibhar Nimbus VIP,Tibhar,$40.00,9.4,8.8,4,8.9,13
+Tibhar Phantom,Tibhar,$12.00,6.9,7.1,3.5,7.3,4
+Tibhar Phantom X-Press,Tibhar,$9.00,8.5,8.8,5.8,8.8,8
+Tibhar Primus,Tibhar,$59.00,9,9.1,1.8,9.1,10
+Tibhar Quantum,Tibhar,$56.00,8.4,8.9,1.6,8.8,11
+Tibhar Quantum S,Tibhar,$62.00,8.8,9.4,1.8,9.3,13
+Tibhar Quantum X Pro,Tibhar,$42.00,8.9,8.1,3,8.7,10
+Tibhar Quantum X Pro Soft,Tibhar,$52.00,8.3,8.3,0.5,8.4,4
+Tibhar Rapid,Tibhar,$28.00,8.3,8.2,3.2,8.9,23
+Tibhar Rapid D.TecS,Tibhar,$48.00,8.8,8.3,2.5,8.5,7
+Tibhar Rapid Soft,Tibhar,$35.00,6,6.7,3.8,8.3,16
+Tibhar Rapid X-Press,Tibhar,$44.00,9.2,9.2,3.8,9.4,15
+Tibhar Rookie D.TecS,Tibhar,$40.00,6.7,6.9,3.5,7.8,6
+Tibhar Sinus,Tibhar,$60.00,8.9,9,3.1,9.1,32
+Tibhar Sinus Alpha,Tibhar,$46.00,8.5,9,1.1,9.1,20
+Tibhar Sinus Sound,Tibhar,$40.00,8.4,8.4,1.6,8.9,26
+Tibhar Speedy Spin,Tibhar,$49.00,7.7,7.5,4.5,8.5,8
+Tibhar Speedy Spin Premium,Tibhar,$41.95,5.7,6.6,4.3,8.2,4
+Tibhar Super Defense 40,Tibhar,$39.00,6.3,8.7,2,8.8,13
+Tibhar Torpedo,Tibhar,$28.00,8.6,8.2,3.7,7.9,10
+Tibhar Vari Spin,Tibhar,$33.00,7.6,8.6,3.3,8.7,23
+Tibhar Vari Spin D.TecS,Tibhar,$40.00,7,7.7,3.2,7.4,7
+Tibhar Volcano,Tibhar,$24.00,7.2,7.2,2.7,8,17
+TSP Agrit,TSP,$49.00,8.9,9.3,1.3,9.2,20
+TSP Agrit Speed,TSP,$60.00,9,9,3.1,9.3,11
+TSP Bjorn,TSP,$61.00,8.7,7.7,2.7,7.4,4
+TSP Regalis Blue,TSP,$42.00,9.3,9.5,2.1,9.3,20
+TSP Regalis Red,TSP,$40.00,9.3,9.4,0.7,9.1,16
+TSP Rise Speed,TSP,$55.00,8.6,8.1,1.6,8.6,11
+TSP Super Ventus,TSP,$34.00,9.2,9.5,1.4,9.4,58
+TSP Triple Spin,TSP,$34.00,7.7,8.4,6.7,8.6,6
+TSP Triple Spin Chop,TSP,$34.00,5.7,9.3,3.5,9.2,14
+TSP Ventus Basic,TSP,$25.00,7.3,7.6,3.5,8.3,4
+TSP Ventus Soft,TSP,$42.00,8.8,9.4,1.6,9.4,28
+TSP Ventus Speed,TSP,$42.00,9.3,9.2,1.3,9.3,28
+TSP Ventus Spin,TSP,$48.00,8.8,9.4,1.4,9.4,53
+TSP XSF-1 21 Offensive Sponge,TSP,$32.00,8.3,7.7,4.5,8.5,7
+Tuttle 2013 Positive Energy,Tuttle,$12.00,8,7.7,2.4,8.3,6
+Tuttle Beijing 2,Tuttle,$15.00,8.5,9.3,7.3,9.1,12
+Tuttle Beijing 3,Tuttle,$15.00,8.3,8.7,7.4,8.9,6
+Tuttle Beijing 3 Tuned,Tuttle,$19.00,7.9,8.6,7,7.7,4
+Tuttle Beijing 4,Tuttle,$12.00,8.3,8.5,2.1,8.9,17
+Tuttle King Of Anti Spin,Tuttle,$10.00,6.3,5,0,6.9,4
+Tuttle Prevention Arc,Tuttle,$11.00,5.4,5.7,0,8.8,11
+Tuttle VIP 2018,Tuttle,$29.00,8.6,9.2,7,9,4
+Tuttle World No.1,Tuttle,$6.00,7.4,8.1,3.1,8,7
+Victas TRIPLE Double Extra,Victas,$33.00,9.2,9.5,9.4,9.5,10
+Victas Triple Extra,Victas,$31.00,9,9.1,6.5,9,5
+Victas V > 01,Victas,$50.00,9.1,8.9,0.6,9,19
+Victas V > 01 Limber,Victas,$36.00,8.7,9.4,1.4,9.4,51
+Victas V > 01 Stiff,Victas,$36.00,9.2,9.3,1.5,9.3,34
+Victas V > 11 Extra,Victas,$50.00,8.8,8.8,2,9.2,22
+Victas V > 15 Extra,Victas,$58.00,9.2,9.2,1.1,9.1,41
+Victas V > 15 Limber,Victas,$36.00,8.8,9.4,1.8,9.3,30
+Victas V > 15 Sticky,Victas,$60.00,8.8,9.1,5,9.3,4
+Victas V > 15 Stiff,Victas,$40.00,8.9,9.3,0.7,9.1,17
+Victas V > 20 Double Extra,Victas,$55.00,9.1,9.5,1.7,9.4,12
+Victas V > 20 Extra,Victas,$50.00,9.3,9.3,2.3,9.2,4
+Victas V > 22 Double Extra,Victas,$42.00,9.2,9.5,2.8,9.5,36
+Victas Ventus Extra,Victas,$36.00,9.2,9.4,0.9,9.4,42
+Victas Ventus Stiff,Victas,$36.00,8.8,9,0,9,6
+Victas VJ > 07 Limber,Victas,$34.00,8.8,9.2,0.3,9.4,6
+Victas VJ > 07 Regular,Victas,$35.00,8.2,9,0.4,9.3,5
+Victas VJ > 07 Stiff,Victas,$45.00,9,9.3,0.4,9.4,11
+Victas VJC > 07 Sticky Extra,Victas,$46.00,8.4,9.2,3.3,9.2,13
+Victas VS > 401,Victas,$41.00,7.8,9.4,1.9,9.2,32
+Victas VS > 402 Double Extra,Victas,$35.00,8.8,9.4,1.2,9.3,17
+Victas VS > 402 Limber,Victas,$48.00,8.7,9.5,1.9,9.2,15
+Xiom Jekyll & Hyde C55.0,Xiom,$59.00,9.1,9.7,4.8,9.4,14
+Xiom Jekyll & Hyde V47.5,Xiom,$50.00,9.3,8.8,0.6,8.7,10
+Xiom Jekyll & Hyde V52.5,Xiom,$60.00,9.5,9.2,1.8,9.1,6
+Xiom Jekyll & Hyde Z52.5,Xiom,$92.00,9.7,9.5,2.8,9.7,4
+Xiom Musa,Xiom,$30.00,7.3,8.2,2,8.4,21
+Xiom Musa II,Xiom,$28.00,8,8.5,1.2,8.4,6
+Xiom Musa III,Xiom,$33.00,7.5,8.5,2.8,8.9,4
+Xiom Omega 2 Asian,Xiom,$41.00,9.3,8.5,2.1,9,20
+Xiom Omega 3 Asian,Xiom,$50.00,9.5,8.9,0.7,9.3,11
+Xiom Omega 3 Euro,Xiom,$50.00,9,8.9,2.9,9.2,9
+Xiom Omega 8 Pro,Xiom,$60.00,8.9,9,0,8.7,5
+Xiom Omega IV,Xiom,$30.00,8.9,9,5.6,8.7,7
+Xiom Omega IV Asia,Xiom,$49.00,9.2,9,2.3,9.4,48
+Xiom Omega IV Elite,Xiom,$29.00,8.2,9.2,2.2,9,36
+Xiom Omega IV Euro,Xiom,$50.00,9,9.3,2.5,9.4,43
+Xiom Omega IV Pro,Xiom,$60.00,9.3,9.2,2.4,9.3,83
+Xiom Omega V Asia,Xiom,$40.00,9.4,9.5,2.1,9.4,45
+Xiom Omega V Euro,Xiom,$43.00,9.1,9.3,2.1,9.3,45
+Xiom Omega V Pro,Xiom,$42.00,9,9.1,2.7,9.2,32
+Xiom Omega V Tour,Xiom,$40.00,9.2,9.4,1.8,9.3,57
+Xiom Omega VII Asia,Xiom,$63.00,9.1,9.3,2.1,9,18
+Xiom Omega VII Euro,Xiom,$50.00,9,8.9,1.8,9.1,25
+Xiom Omega VII Guang China,Xiom,$63.00,8.8,9.2,5,9.1,10
+Xiom Omega VII Hyper,Xiom,$60.00,9.1,9.3,0,8.6,5
+Xiom Omega VII Pro,Xiom,$50.00,9.2,9.1,1.6,9.1,29
+Xiom Omega VII Tour,Xiom,$59.00,9.3,9.3,2,9.2,20
+Xiom Sigma 1 Euro,Xiom,$85.00,9.3,9.3,1.9,9.4,56
+Xiom Sigma 1 Pro,Xiom,$80.00,9.5,9.1,1.8,9.2,28
+Xiom Sigma II Euro,Xiom,$45.00,9.2,9.4,1.9,9.4,37
+Xiom Sigma II Pro,Xiom,$42.00,9.4,9.3,2.5,9.3,28
+Xiom Tau,Xiom,$75.00,8.6,9.5,6.4,8.9,17
+Xiom Tau II,Xiom,$35.00,8.6,9.1,7.3,8.9,4
+Xiom Vega Asia,Xiom,$34.00,8.9,8.4,2.5,8.9,53
+Xiom Vega Asia DF,Xiom,$42.00,8.8,8.8,1.2,8.9,9
+Xiom Vega China VM,Xiom,$45.00,8.4,9.1,5.3,8.4,13
+Xiom Vega Def,Xiom,$45.00,8.7,9.5,1.8,9.3,5
+Xiom Vega Elite,Xiom,$39.00,8,8,1,8.3,33
+Xiom Vega Euro DF,Xiom,$37.00,8.1,8.7,0.9,8.2,18
+Xiom Vega Europe,Xiom,$42.00,8.7,8.9,1.9,9.1,207
+Xiom Vega Intro,Xiom,$28.00,7.7,8,1.2,8.3,14
+Xiom Vega Japan,Xiom,$39.00,9,8.9,1.9,8.8,44
+Xiom Vega Korea,Xiom,$40.00,8.5,8.6,1.7,8.8,7
+Xiom Vega Pro,Xiom,$39.00,9.1,9.2,2.1,9.2,168
+Xiom Vega Pro H,Xiom,$35.00,8.5,9.1,3.3,9,10
+Xiom Vega Tour,Xiom,$51.00,8.9,8.9,2.2,9,13
+Xiom Vega X,Xiom,$47.00,8.9,9.1,1.7,9.3,30
+Xiom Yanus DF,Xiom,$41.00,7.8,8.4,1,8.1,13
+Xiom Zeta Asian,Xiom,$51.00,8.2,8.2,3,8.3,9
+Xiom Zeta Euro,Xiom,$52.00,8.3,7.4,2,8.3,8
+XuShaoFa 999,XuShaoFa,$2.00,6.5,7.6,8,7.3,7
+XuShaoFa 999 LSZ,XuShaoFa,$4.00,8.5,9.1,6.1,8.4,31
+XuShaoFa 999 LSZ 2 Tornado Tension,XuShaoFa,$2.00,7.7,8,5.8,7.7,4
+XuShaoFa 999 ZCD,XuShaoFa,$6.00,8.7,8.8,5.6,8.9,14
+Yasaka Anti Power (Anti-spin),Yasaka,$32.95,4.4,2.5,1.2,9.2,22
+Yasaka Fusion,Yasaka,$41.00,8.2,8.1,0.5,8.2,6
+Yasaka Mark V,Yasaka,$37.00,8,8.2,2.6,8.7,212
+Yasaka Mark V 30°,Yasaka,$30.00,7.3,7.9,1.9,8.7,10
+Yasaka Mark V AD,Yasaka,$30.00,7.7,7.9,0.2,7.8,14
+Yasaka Mark V GPS,Yasaka,$30.00,7.5,7.9,3.9,8.4,12
+Yasaka Mark V GPS Soft,Yasaka,$35.00,8.2,8.5,5,9.3,11
+Yasaka Mark V HPS,Yasaka,$50.00,9,9.1,4,9.3,65
+Yasaka Mark V HPS Soft,Yasaka,$44.00,8.8,9,2.6,9,29
+Yasaka Mark V M2,Yasaka,$32.00,8.7,8.4,3,8.8,18
+Yasaka Mark V XS,Yasaka,$46.00,8.4,8.7,3.2,8.9,19
+Yasaka New Era,Yasaka,$27.00,8.2,8.4,6.2,8.7,16
+Yasaka Original,Yasaka,$20.00,6.3,5.6,2.4,7.3,5
+Yasaka Original Extra XHG,Yasaka,$18.00,7.3,7.7,2,7.9,7
+Yasaka Pryde,Yasaka,$37.00,8.5,8,3.3,8.2,23
+Yasaka Pryde 30,Yasaka,$42.95,8.3,7.5,0.9,8,9
+Yasaka Pryde 40,Yasaka,$45.00,9.2,8.6,3.7,8.6,14
+Yasaka Rakza 7,Yasaka,$52.00,8.9,9.2,2.6,9.4,249
+Yasaka Rakza 7 Soft,Yasaka,$53.00,8.5,9.2,2.4,9.1,140
+Yasaka Rakza 9,Yasaka,$53.00,9.4,9.3,2.3,9.4,79
+Yasaka Rakza X,Yasaka,$43.00,9,9,2.2,9.2,64
+Yasaka Rakza X Soft,Yasaka,$50.00,8.3,8.6,1.5,8.3,25
+Yasaka Rakza XX,Yasaka,$78.00,9.2,9.2,1.6,9.4,13
+Yasaka Rakza Z,Yasaka,$43.00,8.7,9.5,6.6,9.4,71
+Yasaka Rakza Z Extra Hard,Yasaka,$50.00,9.1,9.4,6.9,9.4,32
+Yasaka Rigan,Yasaka,$35.00,8.4,8.9,2.3,9,17
+Yasaka Rigan Spin,Yasaka,$35.00,8.7,9.3,1.8,9.4,12
+Yasaka Rising Dragon,Yasaka,$50.00,8.9,9.5,6,9.4,73
+Yasaka Shining Dragon,Yasaka,$37.00,8.8,9.2,7.2,9,23
+Yasaka V Stage,Yasaka,$52.00,9,9.2,3.2,9.1,13
+Yasaka Valmo,Yasaka,$46.00,9.2,9.2,2.1,9.4,28
+Yasaka Xtend,Yasaka,$44.00,9.1,8.9,3.9,9.2,15
+Yasaka Xtend HS,Yasaka,$44.00,9.3,9.3,2.2,9.4,31
+Yasaka Xtend SD,Yasaka,$49.00,8.9,9.2,4.2,9.1,6
+Yasaka Zap 36-38°,Yasaka,$10.00,8.3,8.4,1.6,8.4,6
+Yasaka Zap Biotech 36-38,Yasaka,$46.00,8,8.3,2.6,8.8,13
+Yasaka Zap Ma Lin Forehand,Yasaka,$11.00,7.4,8.6,5.8,8.6,5
+Yasaka Zap Spin,Yasaka,$12.00,7.8,8,3,7.9,7
+Yinhe 9000 3 Star,Yinhe (Galaxy/Milkyway),$10.00,9.2,9.2,6.8,9.2,19
+Yinhe 9000 Series 2,Yinhe (Galaxy/Milkyway),$11.00,8.3,8.6,4.3,8.2,5
+Yinhe 9000D,Yinhe (Galaxy/Milkyway),$5.00,7.2,8.5,8.2,8.2,10
+Yinhe 9000E,Yinhe (Galaxy/Milkyway),$7.00,7.9,8.6,5,8.1,7
+Yinhe Apollo,Yinhe (Galaxy/Milkyway),$20.00,8.1,9,7.6,8.6,21
+Yinhe Apollo 5,Yinhe (Galaxy/Milkyway),$42.00,9,9.4,5.3,9.3,26
+Yinhe Apollo II,Yinhe (Galaxy/Milkyway),$17.00,8.5,8.7,2.7,8.7,7
+Yinhe Apollo III,Yinhe (Galaxy/Milkyway),$19.00,8.4,9.3,8.7,8.5,12
+Yinhe Big Dipper,Yinhe (Galaxy/Milkyway),$27.00,8.6,8.9,5.1,8.9,61
+Yinhe Big Dipper 5,Yinhe (Galaxy/Milkyway),$26.00,8.4,8.9,5.3,9,10
+Yinhe Big Dipper IV,Yinhe (Galaxy/Milkyway),$18.00,8.4,8.9,6.3,8.7,7
+Yinhe Earth,Yinhe (Galaxy/Milkyway),$13.00,7.4,8.9,7.3,8.5,7
+Yinhe Earth 2,Yinhe (Galaxy/Milkyway),$18.00,8.7,8.1,3.1,8.8,10
+Yinhe Jupiter,Yinhe (Galaxy/Milkyway),$21.00,8.7,9.2,5.1,9,9
+Yinhe Jupiter 3 Asia,Yinhe (Galaxy/Milkyway),$18.00,8.7,9,7,9,30
+Yinhe Jupiter II,Yinhe (Galaxy/Milkyway),$15.00,8.5,8.7,6.2,8.7,23
+Yinhe Jupiter III Euro,Yinhe (Galaxy/Milkyway),$13.00,8.9,9.1,5.8,8.9,4
+Yinhe M-Star,Yinhe (Galaxy/Milkyway),$15.00,7.4,9.4,7.2,9,5
+Yinhe Mars,Yinhe (Galaxy/Milkyway),$12.00,8,8.3,5.6,8.5,5
+Yinhe Mars V2,Yinhe (Galaxy/Milkyway),$13.00,8.3,8.3,2.2,8.4,35
+Yinhe Mercury,Yinhe (Galaxy/Milkyway),$6.00,6.8,8.1,5.3,7.5,7
+Yinhe Mercury II,Yinhe (Galaxy/Milkyway),$8.00,8.3,8.8,6,8.6,106
+Yinhe Mercury III EURO,Yinhe (Galaxy/Milkyway),$18.00,8.8,8.7,0.4,9.1,20
+Yinhe Moon,Yinhe (Galaxy/Milkyway),$26.00,8.7,8.6,1.9,8.7,66
+Yinhe Moon 12,Yinhe (Galaxy/Milkyway),$18.00,8.2,8,1.8,8.3,10
+Yinhe Moon Pro,Yinhe (Galaxy/Milkyway),$32.00,8.9,9.2,6,9.1,50
+Yinhe Moon Speed,Yinhe (Galaxy/Milkyway),$20.00,8.6,8,2.4,8.6,19
+Yinhe Saturn,Yinhe (Galaxy/Milkyway),$29.00,8.3,9,6.5,9.6,4
+Yinhe Saturn Pro,Yinhe (Galaxy/Milkyway),$28.00,8.6,9,5.5,8.7,13
+Yinhe Sun,Yinhe (Galaxy/Milkyway),$16.00,8.8,8.9,2,8.9,37
+Yinhe Sun Pro,Yinhe (Galaxy/Milkyway),$12.00,9.1,9.3,7.8,9.3,9
+Yinhe Venus,Yinhe (Galaxy/Milkyway),$16.00,8,8.2,3.5,7.9,17
+Yinhe Venus 2,Yinhe (Galaxy/Milkyway),$27.00,8.5,8.8,7.5,9.3,23
+Yinhe Venus 3,Yinhe (Galaxy/Milkyway),$15.00,8,8.4,4.6,8.7,6
