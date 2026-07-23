@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Learn From the Best — PingSense</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Nunito:wght@300;400;600;700;800;900&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --white:      #FFFFFF;
+      --off-white:  #F7F8FA;
+      --red:        #D4000F;
+      --red-light:  #FF1A28;
+      --red-faint:  #FFF0F0;
+      --blue:       #003B8E;
+      --blue-mid:   #0057C8;
+      --blue-light: #E6EEFF;
+      --navy:       #001233;
+      --dark:       #0D0D0D;
+      --mid:        #4A4A5A;
+      --border:     #E2E4EC;
+      --shadow:     rgba(0,20,80,0.10);
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Nunito', sans-serif;
+      background: var(--off-white);
+      color: var(--dark);
+      overflow-x: hidden;
+    }
+
+    /* ===== NAVIGATION ===== */
+    nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 1000;
+      background: rgba(255,255,255,0.96);
+      backdrop-filter: blur(12px);
+      border-bottom: 2px solid var(--border);
+      height: 68px;
+      display: flex;
+      align-items: center;
+      padding: 0 5vw;
+      justify-content: space-between;
+    }
+    .nav-logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+    }
+    .nav-logo-ball {
+      width: 36px; height: 36px;
+      background: var(--red);
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      position: relative;
+      overflow: hidden;
+      flex-shrink: 0;
+      box-shadow: 0 2px 8px rgba(212,0,15,0.35);
+    }
+    .nav-logo-ball::after {
+      content: '';
+      position: absolute;
+      width: 100%; height: 50%;
+      top: 0;
+      background: rgba(255,255,255,0.20);
+      border-radius: 50% 50% 0 0 / 40% 40% 0 0;
+    }
+    .nav-logo-text {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.55rem;
+      letter-spacing: 0.06em;
+      color: var(--navy);
+      line-height: 1;
+    }
+    .nav-logo-text span { color: var(--red); }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      list-style: none;
+    }
+    .nav-links a {
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 0.88rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--mid);
+      padding: 8px 18px;
+      border-radius: 6px;
+      transition: all 0.2s;
+    }
+    .nav-links a:hover { color: var(--red); }
+    .nav-links a.active { color: var(--red); }
+    .nav-user {
+      font-weight: 700;
+      font-size: 0.85rem;
+      letter-spacing: 0.06em;
+      color: var(--navy);
+      padding: 8px 6px 8px 18px;
+      white-space: nowrap;
+    }
+    .nav-links a.nav-cta {
+      background: var(--red);
+      color: white;
+      border-radius: 6px;
+    }
+    .nav-links a.nav-cta:hover { color: white; background: var(--red-light); }
+
+    /* ===== FLASH MESSAGES ===== */
+    .flash-container {
+      position: fixed;
+      top: 84px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 1100;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      width: min(420px, 90vw);
+    }
+    .flash {
+      padding: 12px 18px;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      box-shadow: 0 8px 24px var(--shadow);
+      border: 1.5px solid transparent;
+    }
+    .flash-success { background: #E8F5EB; color: #1A7A2A; border-color: rgba(26,122,42,0.25); }
+    .flash-error   { background: var(--red-faint); color: var(--red); border-color: rgba(212,0,15,0.2); }
+    .flash-info    { background: var(--blue-light); color: var(--blue); border-color: rgba(0,59,142,0.2); }
+
+    /* ===== LEARN SECTION ===== */
+    #learn {
+      padding: 140px 8vw 80px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .learn-header {
+      text-align: center;
+      margin-bottom: 60px;
+    }
+    .section-label {
+      font-size: 0.75rem;
+      font-weight: 800;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--red);
+      margin-bottom: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+    }
+    .section-label::after {
+      content: '';
+      width: 24px; height: 2px;
+      background: var(--red);
+      display: inline-block;
+    }
+    h2 {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(2.2rem, 4vw, 3.2rem);
+      color: var(--navy);
+      line-height: 1.05;
+      letter-spacing: 0.03em;
+      margin-bottom: 12px;
+    }
+    .learn-header p {
+      font-size: 1.05rem;
+      color: var(--mid);
+      max-width: 500px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+
+    /* Channel cards grid */
+    .channels-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .channels-status {
+      text-align: center;
+      color: var(--mid);
+      font-weight: 700;
+      padding: 40px 0;
+      grid-column: 1 / -1;
+    }
+
+    .channel-card {
+      background: var(--white);
+      border: 1.5px solid var(--border);
+      border-radius: 20px;
+      overflow: hidden;
+      text-decoration: none;
+      color: inherit;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s, opacity 0.4s ease;
+      cursor: pointer;
+      position: relative;
+      opacity: 0;
+      transform: translateY(16px);
+    }
+    .channel-card.visible { opacity: 1; transform: translateY(0); }
+    .channel-card:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 20px 50px rgba(0,18,51,0.14);
+      border-color: transparent;
+    }
+    .channel-card:hover .channel-arrow { transform: translateX(5px); }
+
+    .channel-top { height: 6px; width: 100%; }
+    .c1 .channel-top { background: linear-gradient(90deg, var(--blue), var(--blue-mid)); }
+    .c2 .channel-top { background: linear-gradient(90deg, var(--red), #FF4D57); }
+    .c3 .channel-top { background: linear-gradient(90deg, #1A7A2A, #2EA043); }
+    .c4 .channel-top { background: linear-gradient(90deg, #5C007A, var(--red)); }
+
+    .channel-body {
+      padding: 28px 24px 24px;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+    }
+    .channel-meta {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      margin-bottom: 20px;
+    }
+    .channel-avatar {
+      width: 72px; height: 72px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.5rem;
+      color: white;
+      letter-spacing: 0.05em;
+      flex-shrink: 0;
+      position: relative;
+      overflow: hidden;
+      box-shadow: 0 4px 18px rgba(0,0,0,0.18);
+    }
+    .channel-avatar::after {
+      content: '';
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 45%;
+      background: rgba(255,255,255,0.18);
+      border-radius: 50% 50% 0 0 / 60% 60% 0 0;
+    }
+    .c1 .channel-avatar { background: linear-gradient(145deg, #003B8E, #0057C8); }
+    .c2 .channel-avatar { background: linear-gradient(145deg, #D4000F, #FF2233); }
+    .c3 .channel-avatar { background: linear-gradient(145deg, #1A7A2A, #38B249); }
+    .c4 .channel-avatar { background: linear-gradient(145deg, #6C0099, #D4000F); }
+
+    .channel-info { min-width: 0; }
+    .channel-name {
+      font-weight: 900;
+      font-size: 1.05rem;
+      color: var(--navy);
+      line-height: 1.2;
+      margin-bottom: 5px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .channel-handle {
+      font-family: 'Space Mono', monospace;
+      font-size: 0.72rem;
+      color: var(--mid);
+      opacity: 0.7;
+    }
+    .channel-desc {
+      font-size: 0.88rem;
+      line-height: 1.6;
+      color: var(--mid);
+      flex: 1;
+      margin-bottom: 20px;
+    }
+    .channel-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+    }
+    .channel-tags { display: flex; gap: 6px; flex-wrap: wrap; }
+    .tag {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 3px 10px;
+      border-radius: 50px;
+      background: var(--off-white);
+      border: 1px solid var(--border);
+      color: var(--mid);
+    }
+    .c1 .tag { background: var(--blue-light); color: var(--blue); border-color: rgba(0,59,142,0.15); }
+    .c2 .tag { background: var(--red-faint); color: var(--red); border-color: rgba(212,0,15,0.15); }
+    .c3 .tag { background: #E8F5EB; color: #1A7A2A; border-color: rgba(26,122,42,0.15); }
+    .c4 .tag { background: #F5E8FF; color: #6C0099; border-color: rgba(108,0,153,0.15); }
+
+    .channel-arrow {
+      width: 34px; height: 34px;
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      transition: transform 0.25s;
+      font-size: 1rem;
+      background: var(--off-white);
+      border: 1.5px solid var(--border);
+    }
+    .c1 .channel-arrow { background: var(--blue-light); border-color: rgba(0,59,142,0.2); color: var(--blue); }
+    .c2 .channel-arrow { background: var(--red-faint); border-color: rgba(212,0,15,0.2); color: var(--red); }
+    .c3 .channel-arrow { background: #E8F5EB; border-color: rgba(26,122,42,0.2); color: #1A7A2A; }
+    .c4 .channel-arrow { background: #F5E8FF; border-color: rgba(108,0,153,0.2); color: #6C0099; }
+
+    .channel-card::before {
+      content: 'Open Channel →';
+      position: absolute;
+      top: 12px; right: 14px;
+      font-size: 0.65rem;
+      font-weight: 800;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--mid);
+      opacity: 0;
+      transition: opacity 0.25s;
+    }
+    .channel-card:hover::before { opacity: 0.5; }
+
+    /* ===== FOOTER ===== */
+    footer {
+      background: var(--navy);
+      color: rgba(255,255,255,0.55);
+      padding: 36px 8vw;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    .footer-logo {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.3rem;
+      letter-spacing: 0.08em;
+      color: white;
+    }
+    .footer-logo span { color: var(--red); }
+    footer p { font-size: 0.8rem; }
+    .footer-ping { font-size: 1.2rem; }
+
+    @media (max-width: 540px) {
+      .channels-grid { grid-template-columns: 1fr; }
+      .nav-logo-text { font-size: 1.25rem; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ===== NAVIGATION ===== -->
+<nav id="navbar">
+  <a href="{{ url_for('index') }}" class="nav-logo">
+    <div class="nav-logo-ball"></div>
+    <span class="nav-logo-text">Ping<span>Sense</span></span>
+  </a>
+  <ul class="nav-links">
+    <li><a href="{{ url_for('index') }}">Home</a></li>
+    <li><a href="{{ url_for('learn') }}" class="active">Learn</a></li>
+    {% if current_user.is_authenticated %}
+      <li><span class="nav-user">Hi, {{ current_user.username }}</span></li>
+      <li><a href="{{ url_for('logout') }}">Logout</a></li>
+    {% else %}
+      <li><a href="{{ url_for('login') }}">Login</a></li>
+      <li><a href="{{ url_for('register') }}" class="nav-cta">Sign Up</a></li>
+    {% endif %}
+  </ul>
+</nav>
+
+{% with messages = get_flashed_messages(with_categories=true) %}
+  {% if messages %}
+    <div class="flash-container">
+      {% for category, message in messages %}
+        <div class="flash flash-{{ category }}">{{ message }}</div>
+      {% endfor %}
+    </div>
+  {% endif %}
+{% endwith %}
+
+<!-- ===== LEARN SECTION ===== -->
+<section id="learn">
+  <div class="learn-header">
+    <div class="section-label">Curated Resources</div>
+    <h2>Learn From the Best</h2>
+    <p>Hand-picked YouTube channels from expert coaches, reviewers, and players. Click any card to visit the channel.</p>
+  </div>
+
+  <div class="channels-grid" id="channels-grid">
+    <div class="channels-status" id="channels-status">Loading recommendations…</div>
+  </div>
+</section>
+
+<!-- ===== FOOTER ===== -->
+<footer>
+  <div>
+    <div class="footer-logo">Ping<span>Sense</span></div>
+    <p style="margin-top:6px">Table Tennis Intelligence Platform · v1.0</p>
+  </div>
+  <p>Built with ❤️ for the ping pong community</p>
+  <div class="footer-ping">🏓</div>
+</footer>
+
+<!-- ===== SCRIPTS ===== -->
+<script>
+  const grid = document.getElementById('channels-grid');
+  const status = document.getElementById('channels-status');
+
+  function buildCard(channel, index) {
+    const card = document.createElement('a');
+    card.className = `channel-card ${channel.color} reveal`;
+    card.href = channel.url;
+    card.target = '_blank';
+    card.rel = 'noopener noreferrer';
+
+    const top = document.createElement('div');
+    top.className = 'channel-top';
+
+    const body = document.createElement('div');
+    body.className = 'channel-body';
+
+    const meta = document.createElement('div');
+    meta.className = 'channel-meta';
+
+    const avatar = document.createElement('div');
+    avatar.className = 'channel-avatar';
+    avatar.textContent = channel.initials;
+
+    const info = document.createElement('div');
+    info.className = 'channel-info';
+
+    const name = document.createElement('div');
+    name.className = 'channel-name';
+    name.textContent = channel.name;
+
+    const handle = document.createElement('div');
+    handle.className = 'channel-handle';
+    handle.textContent = channel.handle;
+
+    info.append(name, handle);
+    meta.append(avatar, info);
+
+    const desc = document.createElement('p');
+    desc.className = 'channel-desc';
+    desc.textContent = channel.description;
+
+    const footer = document.createElement('div');
+    footer.className = 'channel-footer';
+
+    const tags = document.createElement('div');
+    tags.className = 'channel-tags';
+    (channel.tags || []).forEach((tagText) => {
+      const tag = document.createElement('span');
+      tag.className = 'tag';
+      tag.textContent = tagText;
+      tags.appendChild(tag);
+    });
+
+    const arrow = document.createElement('div');
+    arrow.className = 'channel-arrow';
+    arrow.textContent = '→';
+
+    footer.append(tags, arrow);
+    body.append(meta, desc, footer);
+    card.append(top, body);
+
+    return card;
+  }
+
+  fetch('/learn/recommendation')
+    .then((res) => {
+      if (!res.ok) throw new Error('Request failed');
+      return res.json();
+    })
+    .then((data) => {
+      const channels = data.channels || [];
+      grid.innerHTML = '';
+
+      if (channels.length === 0) {
+        status.textContent = 'No recommendations available right now.';
+        grid.appendChild(status);
+        return;
+      }
+
+      channels.forEach((channel, i) => {
+        const card = buildCard(channel, i);
+        grid.appendChild(card);
+        setTimeout(() => card.classList.add('visible'), i * 100);
+      });
+    })
+    .catch(() => {
+      status.textContent = 'Could not load recommendations. Please try again later.';
+      grid.innerHTML = '';
+      grid.appendChild(status);
+    });
+</script>
+</body>
+</html>
